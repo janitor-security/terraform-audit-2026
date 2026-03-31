@@ -1,0 +1,5281 @@
+{
+  "bomFormat": "CycloneDX",
+  "components": [],
+  "metadata": {
+    "component": {
+      "name": "terraform",
+      "type": "application"
+    },
+    "timestamp": "2026-03-31T16:22:53Z",
+    "tools": [
+      {
+        "name": "janitor",
+        "vendor": "The Janitor",
+        "version": "8.8.1"
+      }
+    ]
+  },
+  "serialNumber": "urn:uuid:e0904ddc-b1d3-429c-abc1-7b64cbcf4ce2",
+  "specVersion": "1.5",
+  "version": 1,
+  "vulnerabilities": [
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37639"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37639",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37291"
+        }
+      ],
+      "description": "architecture:logic_erasure — conditional branch count reduced by 25% (base: 4 → head: 3) while code volume remained similar (base: 12 lines, head: 13 lines); probable AI erasure of edge-case safety checks. Risk: significant loss of technical signal — sparse branch coverage degrades documentation search relevance and may trigger low-quality content classifiers on public repositories.",
+      "id": "JANITOR-37291",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37290"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37290",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37287"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37287",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38306"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38306",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37260"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37260",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37243"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37243",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38289"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38289",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37606"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37606",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37232"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37232",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38271"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38271",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37231"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37231",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37228"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37228",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37213"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37213",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37950"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37950",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37937"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37937",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37186"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37186",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37929"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37929",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37926"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37926",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37185"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37185",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37919"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37919",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37174"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37174",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37916"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37916",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37914"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37914",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37170"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37170",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37161"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37161",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37910"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37910",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37909"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37909",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37492"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37492",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37908"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37908",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37146"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37146",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37486"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37486",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37904"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37904",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37145"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37145",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38266"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38266",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37479"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37479",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37144"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37144",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37140"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37140",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37137"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37137",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37896"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37896",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37136"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37136",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38253"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38253",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37465"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37465",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38252"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38252",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38251"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38251",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37135"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37135",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37446"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37446",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37134"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37134",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37879"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37879",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37440"
+        }
+      ],
+      "description": "antipattern:ncd_anomaly",
+      "id": "JANITOR-37440",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37133"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37133",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38248"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38248",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37876"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37876",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37426"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37426",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38241"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38241",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37417"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37417",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37132"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37132",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37408"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37408",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37129"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37129",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37872"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37872",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38226"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38226",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37871"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37871",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37128"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37128",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37870"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37870",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37394"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37394",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38217"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38217",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37127"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37127",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37387"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37387",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37126"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37126",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37867"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37867",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37866"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37866",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37125"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37125",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37115"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37115",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37114"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37114",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37113"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37113",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38198"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38198",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37112"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37112",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37849"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37849",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37335"
+        }
+      ],
+      "description": "architecture:logic_erasure — conditional branch count reduced by 100% (base: 3 → head: 0) while code volume remained similar (base: 23 lines, head: 24 lines); probable AI erasure of edge-case safety checks. Risk: significant loss of technical signal — sparse branch coverage degrades documentation search relevance and may trigger low-quality content classifiers on public repositories.",
+      "id": "JANITOR-37335",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37848"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37848",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37332"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37332",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37111"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37111",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38194"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38194",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37847"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37847",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37110"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37110",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37843"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37843",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37108"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37108",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37107"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37107",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37829"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37829",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37816"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37816",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37106"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37106",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37827"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37827",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37812"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37812",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37824"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37824",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37105"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37105",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37104"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37104",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37798"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37798",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38156"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38156",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38155"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38155",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37797"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37797",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37796"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37796",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37103"
+        }
+      ],
+      "description": "security:credential_leak — RSA private key PEM header detected; never commit private keys (line=773)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=773)",
+      "id": "JANITOR-37103",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "critical",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37795"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37795",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38151"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38151",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37790"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37790",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37789"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37789",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38149"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38149",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37783"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37783",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37778"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37778",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38143"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38143",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38142"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38142",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37776"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37776",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37773"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37773",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38138"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38138",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38135"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38135",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37770"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37770",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38134"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38134",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37769"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37769",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37768"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37768",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37766"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37766",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38117"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38117",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37763"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37763",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37762"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37762",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37758"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37758",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37756"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37756",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37747"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37747",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37746"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37746",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38099"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38099",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37744"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37744",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37743"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37743",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38098"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38098",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37742"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37742",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37736"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37736",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37739"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37739",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37732"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37732",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37738"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37738",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37728"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37728",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37727"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37727",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37039"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37039",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37723"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37723",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37038"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37038",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38077"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38077",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37718"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37718",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37717"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37717",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38073"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38073",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37037"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37037",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37715"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37715",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37102"
+        }
+      ],
+      "description": "security:tls_verification_bypass — `InsecureSkipVerify: true` disables TLS certificate verification entirely, enabling MitM attacks; see CVE-2022-27664, CVE-2023-29409; remove this field or set it to `false` (line=157)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=28)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=459)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=488)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=28)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=459)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=488)|antipattern:ncd_anomaly|antipattern:ncd_anomaly",
+      "id": "JANITOR-37102",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "critical",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37707"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37707",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37036"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37036",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37704"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37704",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37035"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37035",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37695"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37695",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37034"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37034",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37690"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37690",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37033"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37033",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37688"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37688",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37032"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37032",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37677"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37677",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37675"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37675",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37674"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37674",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37031"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37031",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38046"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38046",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37673"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37673",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38039"
+        }
+      ],
+      "description": "antipattern:ncd_anomaly",
+      "id": "JANITOR-38039",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37028"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37028",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37669"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37669",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38031"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38031",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37668"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37668",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37027"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37027",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37667"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37667",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38029"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38029",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37663"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37663",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37026"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37026",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38015"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38015",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37025"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37025",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37024"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37024",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37077"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37077",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37023"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37023",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37076"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37076",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37021"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37021",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37074"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37074",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37020"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37020",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/38001"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-38001",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37073"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37073",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37019"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37019",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37072"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37072",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37018"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37018",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37065"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37065",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37017"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37017",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37101"
+        }
+      ],
+      "description": "security:tls_verification_bypass — `InsecureSkipVerify: true` disables TLS certificate verification entirely, enabling MitM attacks; see CVE-2022-27664, CVE-2023-29409; remove this field or set it to `false` (line=155)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=28)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=459)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=488)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=28)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=459)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=488)|antipattern:ncd_anomaly|antipattern:ncd_anomaly",
+      "id": "JANITOR-37101",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "critical",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37064"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37064",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37063"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37063",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37016"
+        }
+      ],
+      "description": "security:credential_leak — RSA private key PEM header detected; never commit private keys (line=773)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=773)",
+      "id": "JANITOR-37016",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "critical",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37062"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37062",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37099"
+        }
+      ],
+      "description": "security:unpinned_asset — .github.io/ URL embedded in production source; GitHub Pages is not a CDN and has no integrity guarantee — use a versioned package dependency instead (line=99)|security:unpinned_asset — .github.io/ URL embedded in production source; GitHub Pages is not a CDN and has no integrity guarantee — use a versioned package dependency instead (line=24)|security:unpinned_asset — .github.io/ URL embedded in production source; GitHub Pages is not a CDN and has no integrity guarantee — use a versioned package dependency instead (line=74)",
+      "id": "JANITOR-37099",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "critical",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37061"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37061",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37006"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37006",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37054"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37054",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37098"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37098",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37053"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37053",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36984"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36984",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37097"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37097",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37052"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37052",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36997"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36997",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37096"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37096",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36980"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36980",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37050"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37050",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36995"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36995",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37095"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37095",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36979"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36979",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37094"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37094",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36993"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36993",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37047"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37047",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36978"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36978",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37044"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37044",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36992"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36992",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36977"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36977",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37091"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37091",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37041"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37041",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37090"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37090",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36976"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36976",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37040"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37040",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37089"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37089",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36971"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36971",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36974"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36974",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36973"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36973",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36969"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36969",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37088"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37088",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36968"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36968",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36972"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36972",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/36967"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-36967",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37087"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37087",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37085"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37085",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37082"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37082",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37081"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37081",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37080"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37080",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37079"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37079",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:terraform:pr/37078"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-37078",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    }
+  ]
+}

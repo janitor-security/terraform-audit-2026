@@ -1,0 +1,45 @@
+{
+  "gauntlet_root": "/home/ghrammr/dev/gauntlet",
+  "provenance": {
+    "exfiltration_ratio_pct": 0.0,
+    "total_egress_bytes_sent": 0,
+    "total_source_bytes_processed": 918160543,
+    "zero_upload_verified": true
+  },
+  "repositories": [
+    {
+      "antipatterns_found": 64,
+      "critical_threat_bounty_usd": 750,
+      "critical_threats_count": 5,
+      "dead_symbols_added": 9799,
+      "highest_pr": 37102,
+      "highest_score": 620,
+      "pr_count": 943,
+      "reclaimed_hours": 7.0,
+      "reclaimed_minutes": 420.0,
+      "repo_name": "terraform",
+      "structural_slop_count": 199,
+      "total_actionable_intercepts": 239,
+      "total_ci_energy_saved_kwh": 23.9,
+      "total_economic_impact_usd": 5430,
+      "total_slop_score": 5795,
+      "zombie_dep_prs": 0
+    }
+  ],
+  "schema_version": "8.8.1",
+  "total_antipatterns": 64,
+  "total_prs": 943,
+  "total_repos": 1,
+  "total_slop_score": 5795,
+  "workslop": {
+    "actionable_intercepts": 239,
+    "critical_threat_bounty_usd": 750,
+    "critical_threats_count": 5,
+    "necrotic_count": 35,
+    "structural_slop_count": 199,
+    "total_ci_energy_saved_kwh": 23.9,
+    "total_economic_impact_usd": 5430,
+    "total_reclaimed_hours": 7.0,
+    "total_reclaimed_minutes": 420.0
+  }
+}

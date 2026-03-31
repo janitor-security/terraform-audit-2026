@@ -1,0 +1,944 @@
+﻿PR_Number,Author,Score,Threat_Class,Unlinked_PR,Logic_Clones,Antipattern_IDs,Collided_PRs,Time_Saved_Hours,Operational_Savings_USD,Timestamp,PR_State,Is_Bot,Repo_Slug,Commit_SHA,Policy_Hash,Agentic_Contribution_Pct
+37299,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:05Z,Open,FALSE,hashicorp/terraform,bd0af11a1b16a4b25590f7fcf5609c9132157c0c,,0.00
+37641,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:05Z,Open,FALSE,hashicorp/terraform,ff1a625ed146fc84e61c6390999bf9f4c5669b45,,0.00
+38328,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:05Z,Open,FALSE,hashicorp/terraform,af42ce06f7fec45f2f2b02dc64888e2bda077841,,0.00
+37639,Liam Cervante,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:05Z,Open,FALSE,hashicorp/terraform,94eea87a4f4f0f24af871844411741eb5fd85239,,0.00
+38327,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:05Z,Open,FALSE,hashicorp/terraform,50cd09c7e691118b8348c4e01270d4ab9338a768,,0.00
+37638,Andrew Babichev,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:05Z,Open,FALSE,hashicorp/terraform,8097ce9e5784974fd1f0d2db7f0057c806aab273,,0.00
+38326,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:05Z,Open,FALSE,hashicorp/terraform,162077df6fdae3a0bbddac27bc90811124c35b25,,0.00
+37298,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:05Z,Open,FALSE,hashicorp/terraform,4ce4e9c1b618f4f28fd6abc8658e2bef67689e2b,,0.00
+37637,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:05Z,Open,FALSE,hashicorp/terraform,df53161d048ad6ddaa2b6f65fea08d8f4630852a,,0.00
+38325,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:05Z,Open,FALSE,hashicorp/terraform,18fbd9696e524c9b4a7674ad3fb6d56b4ebcd271,,0.00
+37297,Samsondeen,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:05Z,Open,FALSE,hashicorp/terraform,8dd3c62c159d0bcb0b0f4598d3e00e94b1fae70b,,0.00
+38324,martijnvdp,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,bc7fade97aa421b8653113dca7bbef832702c6a9,,0.00
+38323,martijnvdp,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,79e6ba04cdfaf979a0784b257a62134a28feb3b0,,0.00
+37296,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,b7d8fa9ae217ac92946fa1428b67e92ca0762ad5,,0.00
+37636,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,4cecb1041fd4c07fbd8b5130dd419a439948312b,,0.00
+38321,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,387ae1d8c2aa502b508d5535fe45c2df64e2ee45,,0.00
+37990,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,51c47f7c9ca7f73a8dbff01ad3feaf207db90cef,,0.00
+37294,Ayush Singh,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,4c6437fd6f62295d7662cae5f62051d4d9e0039b,,0.00
+38318,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,702a6978cdbb77430b1799e54fe052a0c8b81cce,,0.00
+38316,Craig Wright,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,d5cac62215f71e11457015912d1421b2cf6ed544,,0.00
+37292,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,0bddabc9fe193667d47022ea06089110ef23260a,,0.00
+37635,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,b4f542df957f64a0dd65c31ea6dde083faf36e7c,,0.00
+38313,Roniece,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,36a8c9c331114c460bca8f0dec165801daef49ff,,0.00
+37634,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,c43a2b5ba2f6794489b750721bc60f19be965773,,0.00
+37291,Sarah French,65,StructuralSlop,FALSE,3,"architecture:logic_erasure — conditional branch count reduced by 25% (base: 4 → head: 3) while code volume remained similar (base: 12 lines, head: 13 lines); probable AI erasure of edge-case safety checks. Risk: significant loss of technical signal — sparse branch coverage degrades documentation search relevance and may trigger low-quality content classifiers on public repositories.",,0.0000,20,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,8f48ae23c060a901a34be59d155004683edd913b,,0.00
+37290,Liam Cervante,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,7e1fdec3b8ae8ea2b2e53bedb7c5fc035e1f10a7,,0.00
+37989,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,407cd6db3ebd6d9334c43c1ccad7224cf4e6e773,,0.00
+37288,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,cd38015de80ec6c6aa2c40ec5d391ddc16813b9c,,0.00
+37986,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:06Z,Open,FALSE,hashicorp/terraform,7f653e1548c3a93c6616854e49ecc0ffe5910bd0,,0.00
+37287,Daniel Schmidt,10,StructuralSlop,FALSE,2,,,0.0000,20,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,6750ca69f366dd0f7cff57fcd23c497534c01310,,0.00
+37286,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,12208588dafa3399ee812b92188bc58f340f9d34,,0.00
+37285,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,d7319b87d66e05b4bd02bf3f35f9a150cdb1468e,,0.00
+38312,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,1d92f48146fb16d3506c734790804be233ff1dce,,0.00
+37284,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,6ff6489a51b73c9086af305f1b371043872b69c1,,0.00
+38311,Taylor,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,30231a8ffbbacaf7fa569d5ecc3698c3245e09da,,0.00
+37283,Mark DeCrane,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,1529739017efa9ff20858d7af1d0fc8679d7924a,,0.00
+37633,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,bbbdd767eae7cb872679437611b14bdb4873f79c,,0.00
+38307,Matej Risek,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,c7ec4a3ee9cfef6572ccd7586be5805eac6f19b2,,0.00
+37281,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,0e0e800938767bd5aaac8089c5ca240edbee9bed,,0.00
+37280,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,a062118f77de00cb1e1d546cc2b2801aec597d2b,,0.00
+38306,Charlie Tonneslan,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,14015f1a6e177bc786c9b440122c0edd8b4449c9,,0.00
+37983,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,24c9c92b4d96c0b68857ad233c264222f4c452a0,,0.00
+37278,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,61e7ef000a540f06c27857b0dfbe19044961f680,,0.00
+37632,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,9efccde331c0c77af75e20d215f6641de50286ce,,0.00
+37982,Nick Fagerlund,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,e19522bf8eb91d440f08a682e6b60b00516ab750,,0.00
+37276,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,205ba25063ad221d77719b44f270c4e97e3bfb56,,0.00
+38305,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,06052bd3d7d17455909808b4bf7f05fd3b71008c,,0.00
+37275,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,c3e3ab0f26fa72b6ff905bcefd67be67404faf5f,,0.00
+38303,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,7b67e3566b17f3fa4813021b9cdbccd84cb3a77f,,0.00
+37273,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,f1c5906f488b9c42d34d90e156fef5cd1774afe5,,0.00
+38301,Roniece,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,dc4e328e6202d4ea607dbf70afebe4866cb7b725,,0.00
+37981,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:07Z,Open,FALSE,hashicorp/terraform,9dfd55c0ba9b3be9866acc757d5bae4c4b16df7c,,0.00
+38300,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,92cde4a1b7be3deaa4e6f97d2d22a53fa8d00db6,,0.00
+37267,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,1f9196b7674da20211d10f8ea2e827862cbec3b9,,0.00
+37631,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,f3bebc300c4b33acef210d11c9e49ef843eb9395,,0.00
+37980,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,3754f8961d1fe1c3ed0ab8f7b40c8fc0cc702424,,0.00
+37266,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,40d1487e24d65afd92dd03c3a1970bb344d3d9d2,,0.00
+37977,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,2398fe460e8dae1b8d34524d77d5f9eb1e181b6c,,0.00
+37265,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,fae36c06e635d7f956a745d7ada5cc341e13a6a1,,0.00
+37630,Samsondeen,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,0a9804845f9cca5430727e11c3a0e37a42d0cb93,,0.00
+37972,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,83e3ac56d1556f5a75398f5ab5a513c15123a84e,,0.00
+37260,Raphael,45,StructuralSlop,FALSE,9,,,0.0000,20,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,920fc1cd67ba498e5506f6e6e32310304261099f,,0.00
+37629,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,8e0a2247c74579d1fe3fd49baca272d1c1293864,,0.00
+37969,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,6e484320da2664b0c5db32bb2850c75924919399,,0.00
+37258,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,03aeb975d2af370809d8d2f856a324cbf0193008,,0.00
+37966,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,2c8571ca073eac7bf6f870359c7fc5d79b793066,,0.00
+37256,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,7f640ea2f4758dbcca200b686f368e70987c3dcb,,0.00
+37626,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,8a889aaa0ec5aba984f7ac8226d1a8eee7c3b4db,,0.00
+37625,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,94dd83f704fe12685fef89edaefd62f5fc95c8fb,,0.00
+37254,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,9fb6d02cb3e6c65705f77721b87df41b2795f80f,,0.00
+37624,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,94dd83f704fe12685fef89edaefd62f5fc95c8fb,,0.00
+37252,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,eccff6baad1ca45965910b1b32e8aa539a6415ed,,0.00
+37623,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,94dd83f704fe12685fef89edaefd62f5fc95c8fb,,0.00
+37621,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,76f21da133d61722d6afabb94a09f68e5ac62fcb,,0.00
+37248,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:08Z,Open,FALSE,hashicorp/terraform,4af1be5c52d5086883805cc8ac10698f8ad3c9da,,0.00
+38299,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,700d7a0dddddc6d533c5be20d287bfcc051968e9,,0.00
+38298,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,a9d997cb296a677f71090883da5cd61ae4da1d94,,0.00
+38297,ozalakshay,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,434f0a0999bbe17263dbfab0b15976bf84cf342d,,0.00
+37620,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,7c5bf23d6572149fa171598b159e5e56709ca08a,,0.00
+37246,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,f8f52cf966453299b7720fc2e2c505e2f0c01c20,,0.00
+38296,Roniece Ricardo,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,4651ab721358cc0e393929e603500bdc73ef7086,,0.00
+38295,temp,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,790a6f1a01d66fc67b598343b502b8c9b2bd78df,,0.00
+37965,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,d5bbc2e27f0986ecc67b973a15699d8618a57d8f,,0.00
+37245,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,62ad4c4a9efcd0c38336dbb48773378f62daae4d,,0.00
+38293,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,4fffd5bdf5b15f30b365d3fc0ff9a04a21197c81,,0.00
+37243,JanVaclavek,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,51f4a31f4ee5ce47891c7d72ccccc99e27628dce,,0.00
+37619,Samsondeen,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,4b9b8020870798e0482b09a16c367b6607978382,,0.00
+38292,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,19c1b25a7bc3cf50f2ce0bf4ef18e1a975b511e2,,0.00
+38291,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,9617e8b13130e65fadbafde077551681af6454ae,,0.00
+37618,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,53baa1abf878dcb4704ca8e69bea31efb6c20a62,,0.00
+38290,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,d3d815067d268726579bd2276631bd4b2b0ac1b3,,0.00
+37617,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,298e1acb6905155a2c23e5ad3c7b1b727f1d3cb1,,0.00
+37241,Amartya Majumdar,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,23e545532b97b5ab349f8c8cd929a6a1489d045c,,0.00
+38289,ozalakshay,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,41d1b1891e07658ac229b89d7b13983bf9992639,,0.00
+38288,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,2373285f9ad748f334089c977cb6096058a2e46c,,0.00
+37240,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,5acab3210f4d2c875f99fbd95493be61883e41be,,0.00
+38287,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,29071187cf40ce86dab2ee5e79ec83e51058e6bb,,0.00
+37616,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,d9f2ef39f7a87c0587d8cac15e2e524caa44e490,,0.00
+38285,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,70009c903066680cd13b30ae66e49da6a85b9e93,,0.00
+37612,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,caf9c74d9066bb724bccdb53b50125308a74c704,,0.00
+37237,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,7666b1b8c9e3edcab026832fa185de0c203c678a,,0.00
+38281,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:09Z,Open,FALSE,hashicorp/terraform,8b17c884bbf56ea06b2e67c4e57f83934689d957,,0.00
+37611,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,59e0113a7b76c9aedf7ce21ffac4fdff6b817bd4,,0.00
+38280,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,4818d9cdcab58f2328c47424f50b4199aa231b46,,0.00
+37964,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,b6ba2e24d6a555b319550990b5c927eb2819e2cf,,0.00
+37236,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,66cd4b821f986a49862dfd61cc0344bb1eb27818,,0.00
+38279,abhay1999,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,0a8999510a7575bef6c11e39adc462f761b15e7e,,0.00
+37610,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,690b6e1b9a74ec740d9322ef6e11aed462d24f19,,0.00
+37963,geeker-smallwhite,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,56122d963e8e8ede31eac7fa33522eed18856b8f,,0.00
+37961,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,d370e12d653899b8dbafdb3dee8f6f9e066fa144,,0.00
+37608,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,3463dc4330dc017d8eddf0175999201825518602,,0.00
+37235,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,1c0c6e36c1f4188c3e9d838369c6bcb5f4099bfd,,0.00
+37607,Tommy O'Keefe,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,aa5c8d56ddd2b2a137f1b3728a0d2c20c360f83a,,0.00
+37959,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,ac0004e74f69eff8e6d58a38a690a3a627d83efa,,0.00
+38278,surajkumar0123,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,00ca1f445dae2475bdb6a8257ea5414a319ef5f7,,0.00
+37606,swapniluphade45,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,1c35c5881e3716927a931b064b70ff92edec47b0,,0.00
+37234,Matej Risek,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,da506182517d8248ae3944dca9c1946f9ab6ba37,,0.00
+37957,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,16dccdd2502e2ccb1d8194f3ce707faa45754a23,,0.00
+38277,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,65d4713849f81803f6560821baa4e4293054b956,,0.00
+37956,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,a52e51be949b3ee2d17e2fdaa9f044738df4afd6,,0.00
+37955,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,2f9a50ecb6ccc742ebabc2b8819edb8cf07f2444,,0.00
+37604,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,20f5c5e1c2534bc9d925b1957fcf260ac806c9bd,,0.00
+37952,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,517bb7dab4f7453b80e4dd4ff57c8603ae779fca,,0.00
+37951,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,2a536bae031cfd157fb3e62a5837255c20e1fc1c,,0.00
+38276,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,c25adc4ec94fc22e960a6336a4fe5013a0b886b7,,0.00
+37603,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:10Z,Open,FALSE,hashicorp/terraform,9881531d6b3979ff9aa1ede77d7d0ff3cf427825,,0.00
+38275,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:11Z,Open,FALSE,hashicorp/terraform,d2a026f8b6838d9d45bdd574024287e5a8c42069,,0.00
+37602,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:11Z,Open,FALSE,hashicorp/terraform,2d68bce7e9bb9d5e587ea5780323ed5ca9544187,,0.00
+38274,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:11Z,Open,FALSE,hashicorp/terraform,d4dda554ef7328ec3c03c0782b9bbc89ab94da3c,,0.00
+37232,hc-github-team-tf-core,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:11Z,Open,FALSE,hashicorp/terraform,c6028ab8c54df5f8ec42e3f945581d1cc6c02d36,,0.00
+37597,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:11Z,Open,FALSE,hashicorp/terraform,7f0075e8ace2f3b89041660ac50fe4861494d955,,0.00
+38271,mickael e.,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:11Z,Open,FALSE,hashicorp/terraform,6f469d3103f4f731a4c20de72b88f2cebaf3936e,,0.00
+38270,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:11Z,Open,FALSE,hashicorp/terraform,cee3d6c64bece34ac8abd4a374abf139134000ed,,0.00
+37596,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:11Z,Open,FALSE,hashicorp/terraform,de9f8e57ef50ec9d8c78a2801e7b4816db0510af,,0.00
+37231,Daniel Banck,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:11Z,Open,FALSE,hashicorp/terraform,4178c0c8006d4a93ef2bdd6390c90562ecee5955,,0.00
+38269,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:11Z,Open,FALSE,hashicorp/terraform,ec403050abed86e373c1a21550c459913390f588,,0.00
+37230,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:11Z,Open,FALSE,hashicorp/terraform,30d1fdd7375f91a63077bd875af82c4e7b862eff,,0.00
+38268,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:11Z,Open,FALSE,hashicorp/terraform,eee8cc5363d0f8c651f8e49d531a40671ddf9614,,0.00
+37229,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:11Z,Open,FALSE,hashicorp/terraform,c5347ccedc07ccb1271b1ab1009a1a2b3f64d1ef,,0.00
+37595,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:11Z,Open,FALSE,hashicorp/terraform,27ea08b0c2b1360b3041b0d9bce05c657d181db6,,0.00
+37594,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:11Z,Open,FALSE,hashicorp/terraform,4195236c78e03e79f728fb8ce364d0e7814c1303,,0.00
+37592,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:12Z,Open,FALSE,hashicorp/terraform,f53cd6f1725effd8c35662dc6d43db0c233efb1b,,0.00
+37591,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:12Z,Open,FALSE,hashicorp/terraform,0c83723047c80c3b3e94f1f00b6e59d41bc2bc58,,0.00
+37590,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:12Z,Open,FALSE,hashicorp/terraform,3bb098aded078e7e63cec0e83a612905cd7c222f,,0.00
+37589,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:12Z,Open,FALSE,hashicorp/terraform,7e4fbce1b6c7c1a711761da911fa3850eba4b184,,0.00
+37228,hc-github-team-tf-core,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:12Z,Open,FALSE,hashicorp/terraform,ad65bdd0bbcd75dabcb62ece1319059b0101548c,,0.00
+38267,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:12Z,Open,FALSE,hashicorp/terraform,25f9b668c01ac60ddaa7ebed7cafd051530da631,,0.00
+37227,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:12Z,Open,FALSE,hashicorp/terraform,f499e564fa3030e6a9bd5ab95a93b2ec68db6d0a,,0.00
+37588,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:12Z,Open,FALSE,hashicorp/terraform,81d834941c452989f2947cb609453ccbe9d4c9e9,,0.00
+37225,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:12Z,Open,FALSE,hashicorp/terraform,c0908194fde742c3c26fe54b52b4adb8423c6587,,0.00
+37586,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:12Z,Open,FALSE,hashicorp/terraform,c11df4cfb72ab5f0bd0d124b9041ef91ea976fb2,,0.00
+37222,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:12Z,Open,FALSE,hashicorp/terraform,a494b377a5e5b3e9929b591f4573cb7de6918648,,0.00
+37220,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:12Z,Open,FALSE,hashicorp/terraform,2fa26eda37c6a5b2202a3198e1608eff533fdefe,,0.00
+37218,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:13Z,Open,FALSE,hashicorp/terraform,a04cdacc80a90cf3ddd7c674cf485bcb6ba64152,,0.00
+37585,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:13Z,Open,FALSE,hashicorp/terraform,d0fb31ba6af9456ef3e554f4aaabde85b8163b67,,0.00
+37584,oss-core-libraries-dashboard[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:13Z,Open,FALSE,hashicorp/terraform,00be61e3618e11a04e30ea2b739776526ed5f5ad,,0.00
+37216,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:13Z,Open,FALSE,hashicorp/terraform,b77aa7d5ca56b6cf43441dfdea733a0e9bd25153,,0.00
+37215,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:13Z,Open,FALSE,hashicorp/terraform,d68404a3b337211066d2ba17303fbab0461ce579,,0.00
+37583,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:13Z,Open,FALSE,hashicorp/terraform,de93e379c47337a805b2fffd2c756068a88d605f,,0.00
+37582,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:13Z,Open,FALSE,hashicorp/terraform,0f03857e2953cb036011f7a04126c847c5104dd8,,0.00
+37581,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:13Z,Open,FALSE,hashicorp/terraform,427e0d605e5e721dda6edfdfdab91da5a5a383e7,,0.00
+37578,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:13Z,Open,FALSE,hashicorp/terraform,99377d066f71aa239e6fa2c07e3f4e395d8ba14e,,0.00
+37213,James Bardin,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,efb7b558e44ecb2fe8742a644d2bbc89510565a0,,0.00
+37577,Samsondeen,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,0399402647470d0a870ffb5094c4efccecbc39db,,0.00
+37212,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,3c1e163470b9964558e9454a6b04f91943783ea8,,0.00
+37573,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,9b5de2d74b4e1d0d7befc70e8a3344d717eadb52,,0.00
+37211,Mark DeCrane,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,9e7c094ebeb7942a0a9f65053d6eaefd2be9646b,,0.00
+37210,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,e4da541017362513a6a79bef0056a68fad54a597,,0.00
+37572,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,e2ef488b302f19e39d1c38082bca33701b9c6f2d,,0.00
+37571,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,6f676795051a015a1eebeebc3ff29eaa4888823a,,0.00
+37570,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,2aa3d6f8d837df75432b14749542d736e94da1a1,,0.00
+37950,hashicorp-copywrite[bot],0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,ec76f0d7d9124a60f7ce0d54c01f9b7834cb8816,,0.00
+37209,Samsondeen,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,6a6150d19f49697dbccfeb2fc2159c8d968c317c,,0.00
+37949,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,16186f0b0f26b5b077d76441b63b005c39e9378f,,0.00
+37207,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,115b3f7bbe803fee9374dbb85aa4b63ddd23003c,,0.00
+37206,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,b3f6d79af2577c3bb32efcf9530d4da882ef1616,,0.00
+37948,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,45bac8404d6e2812834094d2bddcb56908ca4905,,0.00
+37569,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,e9b15ec55d8ec607f3e5bf3dc2af054ebcc9866a,,0.00
+37567,Dirk Avery,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,92bf04ae161bf2a9efd81ad1945484210ab49ccd,,0.00
+37947,Vasist10,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,fcdd8dfaf8d296033aef4dcaff725515a5f58e3f,,0.00
+37205,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,403e7b43ea7535dbb8d7a025e66428db5cffa363,,0.00
+37946,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:14Z,Open,FALSE,hashicorp/terraform,37af64b73b3b1a72f65c1585d322816671f7721a,,0.00
+37564,Samsondeen,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,77aa91acb257f8e38cca1649a1f0bd6c9a4fef59,,0.00
+37204,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,f18184ec5ea90e0d74b836b4bf3f3d15175be7e5,,0.00
+37559,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,4e998bb9251854fbf2b3556bf3bfc5ed8cc81689,,0.00
+37200,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,8aa2766e2346772c6f6c73869aab876a972a8af9,,0.00
+37199,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,3f1075a06e8d9873cde534394e5216323d158807,,0.00
+37944,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,e5e59ae19c0d9f18b2098ca6dd80389f0076d9ce,,0.00
+37558,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,442fc9e1ffd925541fa96249c546aaa484f7c746,,0.00
+37942,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,34700f57da0e8d7ab3eb4387fa244b0183ae928f,,0.00
+37941,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,6999b29922a4163df387ce5756aa391cf89ad8c0,,0.00
+37197,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,fdd8f2c5bc30f07d124a976e3fda9fc1c657b27c,,0.00
+37940,Jared Baker,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,dc0384e5786c9c1d4a87afec398f226843b981d2,,0.00
+37556,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,7908069d3468bb6c9458dd419e6ca7d6b5f860ec,,0.00
+37195,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,61d1d0e86edc6b128540a5163b46e8eb330f051a,,0.00
+37555,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,25d6d708058327d959ed384ddb3d5f6647c799fb,,0.00
+37194,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,3f085ab13baee13e64d5a7db84a7038128bc56c4,,0.00
+37553,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:15Z,Open,FALSE,hashicorp/terraform,805f15ff4f984d0902b50c232926eee83f32eb31,,0.00
+37551,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,92cf452fbf52b11da88e35616bb9c8934705481b,,0.00
+37193,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,99d6bb9363533c917e8d1304c3ace89c33804dec,,0.00
+37550,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,37eab6b2fdaee915e8e3045018ea28ae57d5d4ea,,0.00
+37191,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,7e7873b9747b7228c0a0eb717c54bc714995ec08,,0.00
+37190,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,55384c0bc8216d2737cd19ab5ad73b9dd9d7abbc,,0.00
+37549,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,ea89a327e1a6134e2ca29e2cea69da8b6b58d326,,0.00
+37188,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,5e350556724f0334b3b28736fb828f47ef4e5752,,0.00
+37548,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,c7db94bc13ebd21fae41f9366f05c0facd084314,,0.00
+37937,Daniel Schmidt,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,128a605fbc829c26b3eeb7ce41d96fe82db37b44,,0.00
+37936,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,0969c4aa6d12a31f1c65f30707fe64de5161f7e9,,0.00
+37547,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,669b47dd054ef72529adbb5559b4662182cc7acc,,0.00
+37935,devhindo,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,b2d17b7ed6e2a99ea12c45554d946b07e7940673,,0.00
+37545,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,d0f2f320c970837ee70c5a048692b3bf74f905a5,,0.00
+37933,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,1f6b65711028661c0531d9064ccf7adbc9b48677,,0.00
+37931,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,c79ac13096e94aa67fdf5d5e8a4154c0edfacb25,,0.00
+37544,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,802df5e8864ab0cce3d3bf216d4eaf0c6f229870,,0.00
+37543,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:16Z,Open,FALSE,hashicorp/terraform,efb299d1338c7ff0657fa1a09af1d1b8248a1cbe,,0.00
+37542,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,602818f794b1ed378226c0c6c663735c8f36eed3,,0.00
+37186,Sarah French,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,351b6524f561c7df4e3301c4b97f5291784ffdf6,,0.00
+37541,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,88f348b88c3179ca61dcca121d4228794f190b2d,,0.00
+37540,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,db7f1558e3a7c6a004d1f4781d697eb702d87398,,0.00
+37539,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,5ffda4d37076df95dadb6db3ea4f369c7943fe9d,,0.00
+37538,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,d438608d0bd5f666c029230e380522c9077a1aa2,,0.00
+37535,Ariff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,6791db1a3aa83f675a4790d7de5ad6a54fbb6d66,,0.00
+37929,dependabot[bot],5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,c05693cb4bfa88d34b86c72f947e98b613aa76a1,,0.00
+37533,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,e8d855529dc18789af2cb2039deb9eaffb0608c3,,0.00
+37926,Callum Dempsey Leach,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,766a12b18e38dbe52a49a766251f3ce59e34de02,,0.00
+37532,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,24c8f258d42af7e7f31ab935bf5eea506a907a0c,,0.00
+37531,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,5d872ceec5fcc1f925fbdb550efbe26b35f22ade,,0.00
+37925,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,1ddb13dfe6c38786ccc2310cf08d0679e45f9dc9,,0.00
+37924,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,ecb62a47280d33f7577ecb051873e4f7975a2cab,,0.00
+37530,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,dd6a0762365aced43f78b9f2832585841aeb1a53,,0.00
+37923,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,07a7d50f14b1032ce0a544987ce9a638bf903ad3,,0.00
+37185,SYSHIL,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,fa0b18c4d75d788818882ebb45c5b8aadf64ca5d,,0.00
+37922,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,fb8de12dd57d7330c83ff082b7990b7433f8ee60,,0.00
+37528,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,a5ea3120de5e6ed3889b8a19cf9e544f85d54dd9,,0.00
+37181,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:17Z,Open,FALSE,hashicorp/terraform,c76dfba3394895c509f9562d3aa96433545c7718,,0.00
+37921,Orgad Shaneh,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,57db03b1c3ff8ded34623ab1211990399b9f7e21,,0.00
+37180,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,7296d48b8942aee7b16e1e59674ba138fda28e66,,0.00
+37527,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,2b96f104b92619de90b91c8b037123e9ef424695,,0.00
+37920,Kevin Vu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,8deda9c377971ea9d142f0b25d27e2fdfa2aed95,,0.00
+37526,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,65a09bce0fb0dd9037faf5de6338bad57f654a10,,0.00
+37179,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,fce6086a2a94f7ccc85bc234e67597f324284d83,,0.00
+37919,Sarah French,10,StructuralSlop,FALSE,2,,,0.0000,20,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,439167557780867ee422c2c263c792f443e31312,,0.00
+37918,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,9c89d607a3f584fa53a94b6f159bde66f4445f4b,,0.00
+37525,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,a0b3dfc66fe6c4c789198a61e74fbb7af4b1406f,,0.00
+37917,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,fd767317e03da6dbf5abe5afe54adc3854661da8,,0.00
+37524,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,14d70cad59b14c2458993bd5e85689947d38a768,,0.00
+37178,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,e2dc28e630252b61a1a4d4c6ce1a11d260709ae3,,0.00
+37523,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,004b780b906b98cbad49b88062e76c154a1fa356,,0.00
+37176,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,9979dc8571cfd85e40bf16eb5feac83bd6710c35,,0.00
+37175,Leah Bush,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,536147765e21411801c922a6f85699f28ea7cbbb,,0.00
+37522,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:18Z,Open,FALSE,hashicorp/terraform,c75ee5189e0f0012dd79e4bc36d2af9d477222ce,,0.00
+37521,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:19Z,Open,FALSE,hashicorp/terraform,df92820d7f35d16b2c5df0bdac08698962c5e56e,,0.00
+37174,Daniel Banck,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:19Z,Open,FALSE,hashicorp/terraform,e5bb256c56cce9e1ab0e2badfa305fdb525eb43e,,0.00
+37520,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:19Z,Open,FALSE,hashicorp/terraform,b333d2d209ca2d29dcae50cd613afd3e758e43fb,,0.00
+37173,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:19Z,Open,FALSE,hashicorp/terraform,2d0a1fa37f6ed79385204d108ea933079527720e,,0.00
+37515,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:19Z,Open,FALSE,hashicorp/terraform,e35b7a751a1abb40c92ec4fb091f88444225493f,,0.00
+37916,Kristin Laemmert,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:19Z,Open,FALSE,hashicorp/terraform,df75f1b76fe2b2802fa4de1187f06999f4496dcc,,0.00
+37172,Martin Paucot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:19Z,Open,FALSE,hashicorp/terraform,875a7259a21d009e60cc8c870a7601915218bd51,,0.00
+37514,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:19Z,Open,FALSE,hashicorp/terraform,c041e5ae9ca65feb060f5fc611c34f734a452089,,0.00
+37512,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:19Z,Open,FALSE,hashicorp/terraform,ea88a9a38e2bfbffd0dac052c21316906180bb32,,0.00
+37511,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:19Z,Open,FALSE,hashicorp/terraform,7f47096bc417878c53c97ca6622352f2b9153ee2,,0.00
+37509,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:20Z,Open,FALSE,hashicorp/terraform,a9668a82e44fa9d72ea3392aaa291435158227f8,,0.00
+37914,hc-github-team-tf-core,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:20Z,Open,FALSE,hashicorp/terraform,8447730c04ef18685590ae1341a4c9f5473b0b86,,0.00
+37912,Michael Yocca,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:20Z,Open,FALSE,hashicorp/terraform,c465a940fc8387f5f4585691294fb07832a4716f,,0.00
+37170,Mattias Fjellström,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:20Z,Open,FALSE,hashicorp/terraform,f0f7d25c55fa2014c183399b1a9e9fdb3daf8e46,,0.00
+37508,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:20Z,Open,FALSE,hashicorp/terraform,1e51945a801da987eadc27020d78c078b78d1a2a,,0.00
+37506,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:20Z,Open,FALSE,hashicorp/terraform,3a270cf5be94aa9fefd04250ac5bccc6185fbab6,,0.00
+37167,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:20Z,Open,FALSE,hashicorp/terraform,ea533eff98c2f513a5887ca4d79bf4d45f2754e1,,0.00
+37505,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:20Z,Open,FALSE,hashicorp/terraform,8c20b29359352de72bac517b0659611a41898cc4,,0.00
+37165,NARITA,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:20Z,Open,FALSE,hashicorp/terraform,d57e3f728bf65ebbdd9b7c3d62d18008a78bef6e,,0.00
+37164,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:20Z,Open,FALSE,hashicorp/terraform,b635542fbaabc9d0ec6a8550ce03582cec3a01ff,,0.00
+37163,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:20Z,Open,FALSE,hashicorp/terraform,424615b70437bca9082099bc6cebfe218c49e99d,,0.00
+37504,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:20Z,Open,FALSE,hashicorp/terraform,30684658acae2ce3e2569b2a36fae67e246f9911,,0.00
+37162,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:20Z,Open,FALSE,hashicorp/terraform,83d224767ef7f2c12a5dae36da13306dfdb5edfb,,0.00
+37161,Mattias Fjellström,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,aafe934e39e68c566ff229be0c23ad66462c2956,,0.00
+37910,Sarah French,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,e41d9742564012a84cdeae991d6718739df4419f,,0.00
+37158,Mark DeCrane,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,3a307062a81af4ace1d1c5bb87cabf345301c43c,,0.00
+37157,Mark DeCrane,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,650206266bbcbeec44cac5c2bc41ed42e18d5814,,0.00
+37503,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,f8dcb9e3bc23a559fe643d157f734dc79047383e,,0.00
+37155,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,7df949c6c36eedacf80364782ce7c33ee1fe40ae,,0.00
+37502,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,8ec4eb2e20c8f7f9e2fd08aeb09292e0087c663d,,0.00
+37154,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,fd6b10c84d42779493d640ac903986e903eb262c,,0.00
+37500,cuiweixie,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,21d0b66329191bbf3701387a65ebb492d79d250b,,0.00
+37152,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,881efc59fbe46fde9c41bcd76b5b5935d2748ddf,,0.00
+37499,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,afcd3e8aa285b974a2d174f51b215f3e6d897403,,0.00
+37150,SYSHIL,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,ceb2607dbf892595a720a4ca40ec910988c4e57c,,0.00
+37498,Tomohiko Ozawa,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,ddaaca41311675ded600e4fd36f66f86dd9ca8f5,,0.00
+37148,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,b827fd03d519166e3f86b642df8c327641496dd0,,0.00
+37147,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,c78c1891bb8f66af3e9a59e540b660ac3e62d7d8,,0.00
+37909,Sarah French,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,59dc2b5ed81265b34c7b7463111795b77a5b8e9c,,0.00
+37496,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:21Z,Open,FALSE,hashicorp/terraform,a7e57e6e139169099a3a066d2af2e0f5871d6b91,,0.00
+37495,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:22Z,Open,FALSE,hashicorp/terraform,81e91f43bbebb170760b18938decd96e31353f17,,0.00
+37494,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:22Z,Open,FALSE,hashicorp/terraform,ee6588aba04a2d89f50d9352dd9b8f6eed1fe033,,0.00
+37492,Sarah French,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:22Z,Open,FALSE,hashicorp/terraform,5a9f1304404476411d94e69a5d6e8c88f20ae400,,0.00
+37491,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:22Z,Open,FALSE,hashicorp/terraform,ef14e0931ec9d0a0e67cd7c37af02eab3d57a244,,0.00
+37908,hc-github-team-tf-core,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:22Z,Open,FALSE,hashicorp/terraform,743b8c64a64bff9b85cf90a33fc17e17a28d42ac,,0.00
+37907,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:22Z,Open,FALSE,hashicorp/terraform,74c03de367b44961e7f95a16df90078e6af3a1ab,,0.00
+37488,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:22Z,Open,FALSE,hashicorp/terraform,df04266cac7b5fdef0ceec3d92fdc310cda7f435,,0.00
+37146,hc-github-team-tf-core,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:22Z,Open,FALSE,hashicorp/terraform,35518c6206f6db368babc7d4ac35a5b76bc1f68d,,0.00
+37905,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:22Z,Open,FALSE,hashicorp/terraform,8833fc511955b4e82897446269e79fdbf0de1e13,,0.00
+37487,Ricard Bejarano,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:23Z,Open,FALSE,hashicorp/terraform,4b5feddc8a587ee0dca3ff6a2f033abe5ab36033,,0.00
+37486,Kristin Laemmert,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:23Z,Open,FALSE,hashicorp/terraform,75456eadbeae0842a630f96f3461970018751969,,0.00
+37485,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:23Z,Open,FALSE,hashicorp/terraform,254c05765376db9ac4e2bcd440df763a3140c209,,0.00
+37904,Liam Cervante,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:23Z,Open,FALSE,hashicorp/terraform,4bfb3abdab54c62dce2cebacadf71e9343ff8f28,,0.00
+37903,Bismaya Mohapatra,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:23Z,Open,FALSE,hashicorp/terraform,ebcd0a2b222d9b9fc5aa3f6c211d748c84c26abc,,0.00
+37145,hc-github-team-tf-core,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:23Z,Open,FALSE,hashicorp/terraform,b31a29e6ebc2387e3e11a201a044918ffa217546,,0.00
+37484,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:23Z,Open,FALSE,hashicorp/terraform,a96a93c9c98a07f4afb26e0d8ccbaba4bcff3cac,,0.00
+37901,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:23Z,Open,FALSE,hashicorp/terraform,6ea9ed4c3d953d954dd9274329cab8ef4139943c,,0.00
+37483,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:23Z,Open,FALSE,hashicorp/terraform,85e7ac8825c65b54249822a6a2dfb1e95f785c8b,,0.00
+37482,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:24Z,Open,FALSE,hashicorp/terraform,8bebcd7cc3a69a63b70f70ced564c84928368bf6,,0.00
+37481,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:24Z,Open,FALSE,hashicorp/terraform,d7a1817edb996459f5e092a2ba3a1d4ef22ba670,,0.00
+38266,James Bardin,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:21:24Z,Open,FALSE,hashicorp/terraform,88359d851b9d75e2b773591f902ebdf89977e0d2,,0.00
+38264,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:24Z,Open,FALSE,hashicorp/terraform,8f9bd87c6c6eed4e38326c0208e5faedef3705f5,,0.00
+37479,Samsondeen Dare,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:24Z,Open,FALSE,hashicorp/terraform,71e10c0d26baa476ba2070d112f7e738c05dc5dd,,0.00
+38263,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:24Z,Open,FALSE,hashicorp/terraform,c6e6818669de883a789d9be548d2954607384724,,0.00
+37144,temp,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:24Z,Open,FALSE,hashicorp/terraform,dd3c4a5460b088556875a1ee92f0d87b5ea8359c,,0.00
+37478,Ricard Bejarano,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:24Z,Open,FALSE,hashicorp/terraform,926257a3666c5fb8116ecfcdb4495afb23f9dc8f,,0.00
+37900,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:24Z,Open,FALSE,hashicorp/terraform,697b4f32e6466c104c6a75d19f538c3a64231454,,0.00
+37899,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:24Z,Open,FALSE,hashicorp/terraform,bb07705026ed6620c7384f172d38d58f5828d39c,,0.00
+37477,Ricard Bejarano,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:24Z,Open,FALSE,hashicorp/terraform,a5e2189818f4eaec5db884315d30f79b73ec9398,,0.00
+37898,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:24Z,Open,FALSE,hashicorp/terraform,00513e19a36aad540d836afd031607f8f70d8eb0,,0.00
+37474,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:25Z,Open,FALSE,hashicorp/terraform,0d835e721c38d57aee519bdcb7006f0cb352346f,,0.00
+38262,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:25Z,Open,FALSE,hashicorp/terraform,015becd6993eb71b30373acd32ca94901998ca7d,,0.00
+37140,trujillo-adam,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:25Z,Open,FALSE,hashicorp/terraform,8f4fcc2ffacd3d6293dfa18213b1d88973352588,,0.00
+37473,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:25Z,Open,FALSE,hashicorp/terraform,a31457fb79e0c82798ed34fb253b8253379e7cff,,0.00
+37137,Samsondeen,10,StructuralSlop,FALSE,2,,,0.0000,20,2026-03-31T16:21:25Z,Open,FALSE,hashicorp/terraform,c80a012f0d1ddc6bd83bcc417f018152807e4e89,,0.00
+37472,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:25Z,Open,FALSE,hashicorp/terraform,933ed707f127f4159cd705d934ca346e04ac81f2,,0.00
+37896,Steph,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:25Z,Open,FALSE,hashicorp/terraform,47ecbab008da84d4ec213c71faae1198bb5bdc35,,0.00
+37471,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:25Z,Open,FALSE,hashicorp/terraform,2fd25f68636659b2480f6a2b38bf419333169b07,,0.00
+37895,stephybun,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:25Z,Open,FALSE,hashicorp/terraform,1cac6ebfcae8c17b3e5acc37042b07e5a2321165,,0.00
+37894,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:25Z,Open,FALSE,hashicorp/terraform,0604e7c8cd70d221db4f6f48d3f47e940cc82513,,0.00
+37470,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:25Z,Open,FALSE,hashicorp/terraform,5110d28f8f022f6cb6221a460817061476cfe324,,0.00
+37893,Kevin Vu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:25Z,Open,FALSE,hashicorp/terraform,700dfb8254760f559941dd4e77f93b5506d4636e,,0.00
+38260,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,87b46e1263f2947085c93e42b02b76d1e620f2ed,,0.00
+38259,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,86baa6830aaf763018310c017385615f4a919342,,0.00
+37891,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,c2d9c4288d39f806d8b801b7fa95c1013d49c84b,,0.00
+37468,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,855d245e10f06ae3ff8689ad39a78eba48000328,,0.00
+38256,creatorHead,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,f3658552eaa7c3646cd7bfd70dc21fd8ee5348b4,,0.00
+37136,Mohamed Mohamed,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,272de7116c2cbf34317441fa05fb8386c79ca633,,0.00
+38254,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,ba43adaa6b3b1b09834a4ed39516eb7d964a156b,,0.00
+37467,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,0bbbbcdf99045d7da76de373a64c1478734ad993,,0.00
+38253,karimfin,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,b1e8a70a02dc0851b6e8530d1540ab3590cd4c78,,0.00
+37465,Daniel Schmidt,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,063c34dfac556786b5f0d80d3c7e1b4bb8cea3ab,,0.00
+38252,karimfin,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,bfb6592b8e2ae6e1f1f866ba8d94b48950a14f02,,0.00
+37890,Max Qian,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,dc15ed62e8555bbecf36a90e91307aa237225ab4,,0.00
+38251,karimfin,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,c786872abac5d8852bfec9c3f631632609005de7,,0.00
+37461,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,75bdf28126dc3e2094c985aac3f233d534dc4b65,,0.00
+37889,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,8632700ff8238d55fe72288824fcd3e717dc7792,,0.00
+37460,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,76f9614bce01f88ce789690aa487419a95ea02cf,,0.00
+37888,James Pogran,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,ddc1d11f6b61371e3f73bf77d159dd8a6b9d8264,,0.00
+37886,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,f78c64e528f1c92ce51fd25747276601aa2e2f80,,0.00
+37458,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,1ff834e3bf092d00c0d750b7865c06145194d087,,0.00
+37884,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,862b6ba4f522cde5028456688d07b77aa4413bd4,,0.00
+37457,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:26Z,Open,FALSE,hashicorp/terraform,c9f105b5a1b54e5e33bb0c5843e724956275bd0f,,0.00
+37454,liyongli,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:27Z,Open,FALSE,hashicorp/terraform,d221f7d1eeff2081c9744c1e8fca02e2e3095fb8,,0.00
+37135,Mohamed Mohamed,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:21:27Z,Open,FALSE,hashicorp/terraform,d1b1ae77b13316a2194747f5c31df2bc431f36cf,,0.00
+37453,liyongli,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:27Z,Open,FALSE,hashicorp/terraform,d221f7d1eeff2081c9744c1e8fca02e2e3095fb8,,0.00
+37883,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:27Z,Open,FALSE,hashicorp/terraform,5f37588ea4bced5c0196c7165a83b9e925371cee,,0.00
+37452,Deniz Onur Duzgun,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:27Z,Open,FALSE,hashicorp/terraform,6aa861c5592ce0572c455072cb682e405d9425d0,,0.00
+37881,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:27Z,Open,FALSE,hashicorp/terraform,04f072e482367d00c1a418d2653cf650c6bb5cc8,,0.00
+37451,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:27Z,Open,FALSE,hashicorp/terraform,0e5ad105165f5e23aeca7b4abbf70cf5aabbbca6,,0.00
+37448,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:27Z,Open,FALSE,hashicorp/terraform,8b05b0fdedeb945b5075f540000ccf6f844bfc8d,,0.00
+37880,Kevin Vu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:27Z,Open,FALSE,hashicorp/terraform,1761c81bb375fb33c1bcaa5dc3862b60f4e8c6f4,,0.00
+38250,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:27Z,Open,FALSE,hashicorp/terraform,38f7a5047ae038198fad96da43a520427d12e559,,0.00
+37446,Sarah French,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:27Z,Open,FALSE,hashicorp/terraform,b84c45d4a9137b2a3c2d1d7978afc74b6e3423fe,,0.00
+37444,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:27Z,Open,FALSE,hashicorp/terraform,f313e7cfdeb18e73f1bd6427dd8d170dfb4d707f,,0.00
+37134,Mohamed Mohamed,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:21:27Z,Open,FALSE,hashicorp/terraform,e468a117802c111bec826d216d3e0488535b7462,,0.00
+37443,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:27Z,Open,FALSE,hashicorp/terraform,8fc7ac1e44e8928e1e5a3d1b10fb0a22b67d860c,,0.00
+37442,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:28Z,Open,FALSE,hashicorp/terraform,12e40a8034329340980f7c2ba69eb99a775c09d7,,0.00
+37441,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:28Z,Open,FALSE,hashicorp/terraform,2db5cc7c5f1393f004ac7e6acff6b0d5d0d0c8f6,,0.00
+37879,hc-github-team-tf-core,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:28Z,Open,FALSE,hashicorp/terraform,49bd6ee5bfc34f2189038729ddf8c03b0b8d9bfd,,0.00
+37878,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:28Z,Open,FALSE,hashicorp/terraform,0da39a75dfdf3bd89bc66959108d8a0dab2f9838,,0.00
+37440,Radek Simko,15,StructuralSlop,FALSE,1,antipattern:ncd_anomaly,,0.0000,20,2026-03-31T16:21:28Z,Open,FALSE,hashicorp/terraform,3198f817fecf332641913487e93e59e99636025a,,0.00
+37877,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:28Z,Open,FALSE,hashicorp/terraform,76248611ffa0288796965c86a6b5ba9ac7591496,,0.00
+37438,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:28Z,Open,FALSE,hashicorp/terraform,1a4ce19320e8fc6f78ea7aba5fd38f960fe1c1e3,,0.00
+37436,Samsondeen,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:28Z,Open,FALSE,hashicorp/terraform,241847d3b245410ccfb20875f8037832ec7ebe1a,,0.00
+38249,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:28Z,Open,FALSE,hashicorp/terraform,579a0affc8d5608c300c96de2287af42d8e46802,,0.00
+37435,Uri Sternik,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:28Z,Open,FALSE,hashicorp/terraform,96644bb4e505f3391859df361c4903a630da7fd5,,0.00
+37133,Mohamed Mohamed,30,StructuralSlop,FALSE,6,,,0.0000,20,2026-03-31T16:21:28Z,Open,FALSE,hashicorp/terraform,788188fff013da62d217bb5ad6736bb88fb5c685,,0.00
+38248,ozalakshay,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:28Z,Open,FALSE,hashicorp/terraform,a00fa58bd4e0359af1b82569ca3078c20b8685d1,,0.00
+37434,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:28Z,Open,FALSE,hashicorp/terraform,b398eebeeec4d8355c46e20b387e6c9f2b3562b0,,0.00
+37430,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:28Z,Open,FALSE,hashicorp/terraform,eecfbc65021812fd5608f5e60fa88849cc417c48,,0.00
+37429,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,7ed24d208ae626863f788b50e369e63826d705a8,,0.00
+37876,hc-github-team-tf-core,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,31a9f8809991ec46c19298d1482854d65619d444,,0.00
+37426,Radek Simko,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,3639397f14bc7e49a48e164bc76208ff103a5c11,,0.00
+38247,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,8383ded554737fd16bdcae313e3718e77dd4f6cb,,0.00
+38246,Roniece,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,88f8567b779c2c55527f8fe84566ac1c9164cd0f,,0.00
+37875,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,c5d4dbb494b2cd84ab7b764bf11a2ff460c0ce24,,0.00
+38245,Mutahhir Hayat,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,f34621f4e8ed9c6955e672d8f7917cccdb8dcbea,,0.00
+37425,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,8497ea21afc984c20fa24a15b1193440e39e9b2b,,0.00
+38244,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,c4f90b0e3f3107cf2052362b43e6de16dda8daa9,,0.00
+37421,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,23f7296880cd56ffa6372834e1e155188f573889,,0.00
+38243,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,a19aa44c0b5cf2895d7b1abb4b02670de3a110c7,,0.00
+38242,Roniece Ricardo,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,1711a9f11e33c8a9d0e79014826895b95ad5b583,,0.00
+37420,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,3f2f88558546736e2f9e4733ef46325f19de4896,,0.00
+38241,Daniel Banck,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,37977961c33dd59d160ac055b5593842d5a6fcc3,,0.00
+37874,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,170dddb36d1c5160325fc0390480669c602ad20a,,0.00
+38240,sahar-azizighannad,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,112ab234ba3f5d7bca966927684ff90daaa55b20,,0.00
+37418,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,59a2a5c7cf3b7f5ebaf3fdf3eb9a097139200611,,0.00
+38239,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,966b07121a6a09a243cce11a2e48de258f557f1a,,0.00
+37417,Radek Simko,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,47405ca05d2f57482270d61617207e0f1f5c6ea8,,0.00
+37132,Mohamed Mohamed,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,21f399f508a5b27c69b1e861524da3bf1261950b,,0.00
+38238,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,1f6a57d91a3fe9770140bf89afe8235ca31a87d6,,0.00
+37416,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:29Z,Open,FALSE,hashicorp/terraform,df3bdb7feeda054e2c0aecfe1f6ec2c6163ccfad,,0.00
+38237,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,3f258303f0423d6835935cfda6f45b7481842662,,0.00
+38236,Brandon Croft,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,3b14c7193e357a69c6ee8b83f26470488dccfa2a,,0.00
+37873,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,0a7239a9c244484ee0784887d78e1e9b6e2c6646,,0.00
+37415,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,0ec180eb196de3aad18e2608e069a28e8da3dac7,,0.00
+38235,Munem Hashmi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,1a1cae252eba89f6a43055ac58231b71299e9c9d,,0.00
+37413,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,72474d3041ae51da91da686cc2ac04c7647ca53d,,0.00
+38234,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,6e69dd51eb12b83659f627a6ce7671b3b0a9a4e7,,0.00
+37411,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,435d459fbc6317e542b1fa9c5290fca11bdb7928,,0.00
+38233,sahar-azizighannad,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,011d030751f11ea3c5c2a48e5c533ad85e3e6cac,,0.00
+38232,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,991daf95c772f13ea6450d030cf1903527615969,,0.00
+37410,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,c575189b2cd34caa53878428f897aeb7c14aaba9,,0.00
+38231,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,43862ac960c4f2f047f0cb9024e581ec39161b61,,0.00
+38229,Peili Qian,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,d4f50e9fb873b07e7a652da61d0f79d363dbb7a9,,0.00
+37408,Daniel Schmidt,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,2d0a885ede9f6c73d8c9767506f9260e1dfce880,,0.00
+37129,anupam.,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,0b02b13b98fa6283ee1b01726e833dcc5a217e07,,0.00
+38227,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,6f2622abf06429f92985020b10324925415efd2a,,0.00
+37407,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,12797a33de55efb7025cda2da402d0fe2281163c,,0.00
+37872,Radek Simko,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,59b6f41afd5a9e7b7011ee552cd63c5e43c49cf6,,0.00
+37403,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:30Z,Open,FALSE,hashicorp/terraform,3c839dda0500dd588b254771684f9ec877515641,,0.00
+38226,Mutahhir Hayat,10,StructuralSlop,FALSE,2,,,0.0000,20,2026-03-31T16:21:31Z,Open,FALSE,hashicorp/terraform,8f298780e7a51fcc6ef8d6c80199aa80f789a56c,,0.00
+37402,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:31Z,Open,FALSE,hashicorp/terraform,a83b1472cd5b4483d7326650649df06493ec6050,,0.00
+37401,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:31Z,Open,FALSE,hashicorp/terraform,8d3fce729439f7882e6e1bf353c17180764b77ed,,0.00
+37400,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:31Z,Open,FALSE,hashicorp/terraform,539f24ebaa08b768391ca41ae665138c133b12e9,,0.00
+38225,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:31Z,Open,FALSE,hashicorp/terraform,ad80bebb97b3075fec92f9effe727eb369dd76ce,,0.00
+37871,temp,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:31Z,Open,FALSE,hashicorp/terraform,46f6e37bd55082c2d120f4c8bab43d1fad1a2c75,,0.00
+38224,Matej Risek,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:31Z,Open,FALSE,hashicorp/terraform,06cd2b46d710040328e0e3a1eab0591186427e2e,,0.00
+37399,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:31Z,Open,FALSE,hashicorp/terraform,0b523b90611e55e8314cbcfeb3f82acecfacadbe,,0.00
+38221,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:31Z,Open,FALSE,hashicorp/terraform,83b5c9491f96bdaaddb494d50f75f60ccd088c61,,0.00
+37398,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:31Z,Open,FALSE,hashicorp/terraform,d7eda91f0cd2adf0376de44ddb5fa847ea6eef61,,0.00
+38220,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:31Z,Open,FALSE,hashicorp/terraform,61fb1fd506055c6592bb2630189b36f05c202542,,0.00
+37128,anupam.,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:21:31Z,Open,FALSE,hashicorp/terraform,e8f51c99d83fafd6ed99de97ce0237d75b271f85,,0.00
+38219,devendrapatra,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:31Z,Open,FALSE,hashicorp/terraform,2ddcd85fe1ef5a1969a3dac36ed365250d44b56d,,0.00
+37396,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:31Z,Open,FALSE,hashicorp/terraform,242a95f863707029707f3d45a85bb293482e3da2,,0.00
+37395,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,c80d0d1e63b1b59434aecb4ee315ac34f70472cd,,0.00
+37870,Daniel Schmidt,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,cb6e4a99d9e1d2b6898a67ae6f887da9c40c7683,,0.00
+37394,Alex Kattathra Johnson,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,c837ba4faa88af68f294a95d49451193cc42dc9b,,0.00
+38217,Daniel Schmidt,195,StructuralSlop,FALSE,39,,,0.0000,20,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,ccb1641bd4a70c53c0ec80f9e7f43a9fc36bf3ef,,0.00
+37127,anupam.,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,7ccb0412277abf88e1c924922988e999e9c00556,,0.00
+37392,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,2d223cc3fb12fa84aeec16df1a184ba9a195c82d,,0.00
+37391,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,0c49a872254529559ba788a67a53523f6a2ab959,,0.00
+37869,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,7d470628aa995fe6cbb8e15dd19cbd00d4eb323b,,0.00
+38215,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,e52de48e4c68006479570f1be8317612bdf7d059,,0.00
+38214,Joe Wright,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,587fa3e631291d22ba486d1d265c1fe250bd382b,,0.00
+37390,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,ffdb080f4c55df12c603e485993799ccf23a3392,,0.00
+37868,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,735130499d9715e5afdc70250ba8ea4be6d89bfc,,0.00
+38213,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,8f0f903f5ea3c229bc84bd544682179fd0be9add,,0.00
+37389,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,7fca6805a5412f63e062482aaee828f77736e4fd,,0.00
+37387,ch0use,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,dab94ab4308851561f6dcbea5cc9651a475ef731,,0.00
+38212,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,828c50f629a6e786c9a6969aeaabfb768a386821,,0.00
+37386,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:32Z,Open,FALSE,hashicorp/terraform,a91af47efdfc772644207021890584b3f34b325c,,0.00
+37384,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:33Z,Open,FALSE,hashicorp/terraform,9a687b5ffe94a7cfe7d5be78c7aee8353bb6e1a5,,0.00
+37383,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:33Z,Open,FALSE,hashicorp/terraform,7eecb46144f7cf9f73fb50f2620050226b1814e0,,0.00
+37126,anupam.,30,StructuralSlop,FALSE,6,,,0.0000,20,2026-03-31T16:21:33Z,Open,FALSE,hashicorp/terraform,c103fe0d02f905de8e4f64296700e1c610356a45,,0.00
+37382,Austin Valle,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:33Z,Open,FALSE,hashicorp/terraform,0ebe5e1cdf82086d2d38ba0ec42484ff9d0fce1c,,0.00
+37867,Daniel Banck,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:33Z,Open,FALSE,hashicorp/terraform,72e2548c24933ebe52fbe41408caee131445a6b4,,0.00
+37381,Mark DeCrane,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:33Z,Open,FALSE,hashicorp/terraform,28ebbcffed0bae622239afe198d23092806b2c13,,0.00
+37380,Mark DeCrane,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:33Z,Open,FALSE,hashicorp/terraform,14d378f9ceeb79fd1018da481f1cc25858e0b0de,,0.00
+37379,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:33Z,Open,FALSE,hashicorp/terraform,834a794740a5948430f7efc19446a45ee3f3341a,,0.00
+37378,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:33Z,Open,FALSE,hashicorp/terraform,662b626a0e374fd3cae64a1a320f0bf6599b7916,,0.00
+37376,Mark DeCrane,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:33Z,Open,FALSE,hashicorp/terraform,f2d78086f3d77dfe83583393556ee70f219a5e9d,,0.00
+38211,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:33Z,Open,FALSE,hashicorp/terraform,57f27b7c491195fb16fb80ce2040a9300c9b0e29,,0.00
+37866,Daniel Schmidt,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,db9680aec3b734eb7b17c8ebbb4d4fb19a968837,,0.00
+37375,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,486087161b0b8c8a1ad479ac33921e1838e937a3,,0.00
+37374,kumarkavish,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,388548070441e90837945ad8f9af48e974eff483,,0.00
+37372,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,f10ac6c898655304646379167bdb80d14825ca69,,0.00
+37371,Mark DeCrane,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,e929a910fe159f87555363b2c96040c84687e8a4,,0.00
+37370,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,86a8d20395c0e2d56e5fd316a029cdb9660e9a2c,,0.00
+37125,anupam.,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,db8aac38c5f6143c160a773d3c72bef743d1cf34,,0.00
+37369,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,adcacaff5198c92829f234b74a9b103df4b80081,,0.00
+37124,anupam.,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,2d17b587c82729f260ee4733a47a2f3963797f14,,0.00
+37368,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,65fb50e7ac37df116d4145bb4d937729763fada2,,0.00
+37865,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,5182fe51cd47168c14215f1ea80ca2393495d039,,0.00
+37367,jishudashu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,8f83ac11c36f231c7c81c4783b28d290b1d3567e,,0.00
+37365,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,78e19ed667e6e6b05cdf6073baf093a80ddfa153,,0.00
+37864,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,39be6c1ac7615c9134c5ab2d72e440a1f0890948,,0.00
+38209,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,994f88585b0f20d165e31f8150115315104d56ad,,0.00
+37364,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:34Z,Open,FALSE,hashicorp/terraform,6754fba448ad2843e264fc137c3a94cc24327902,,0.00
+38208,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,8ddcb5dd86eb411a5d2466327dd998c5b3dba372,,0.00
+37363,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,68c02ab21e5ee9e60f8554e41c6aee6c5a3780f6,,0.00
+38207,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,4a5526840a50bf929be17eb8baac0021c001eb66,,0.00
+37863,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,d3625be1c716d112ce83240ed7459d6020c60b92,,0.00
+37115,Rose M Koron,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,232542c61e30f793951f46a36d6d6109959b6008,,0.00
+37362,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,c5cd0acceefcd7d510b81e9d64810b27c2ef4dff,,0.00
+38206,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,4a58b799432d5b727c9c57e51c2366de73473e27,,0.00
+38205,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,9e643d0bd3c06695bc508e8600f3d3e20c36265a,,0.00
+37359,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,8ac7c521596dfd48ba5db06a89f022a43afbeeab,,0.00
+37859,Mads Jensen,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,bfee1105c4e75dea97328c69398e81d8e089fc3c,,0.00
+38204,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,70e074b8aaae6e8ea082782f3a100c0106235853,,0.00
+37856,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,2b737fb1a406ea04d257810d48a69d494ee18fab,,0.00
+38203,Craig Wright,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,fccdec63275e9bf939b008e6de0e67e06d6bb828,,0.00
+37855,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,9bf8b348d9175b0b550f5c5b62fa57e899267aa8,,0.00
+37357,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,4c53bc683e19127ea369eb6743511e86243e1a79,,0.00
+37114,Adam J Bravo,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:35Z,Open,FALSE,hashicorp/terraform,ddcd44b87acb6ea36d2a8b6842461d3af683ba19,,0.00
+37854,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:36Z,Open,FALSE,hashicorp/terraform,49340069828c578f97e42de0cd2ef1f196256a71,,0.00
+37355,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:36Z,Open,FALSE,hashicorp/terraform,1aef3b7e9a1a82469fc067aefd74b39b6e147a5b,,0.00
+37853,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:36Z,Open,FALSE,hashicorp/terraform,b04c76755b9967f4421b6950a9f13c86328e02ff,,0.00
+37351,avi475,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:36Z,Open,FALSE,hashicorp/terraform,d87b5ea3b260db3e0af10fadbcac13baf3fb28f9,,0.00
+37350,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:36Z,Open,FALSE,hashicorp/terraform,31f2cc10d08e1a1c240af3186460e878837d5097,,0.00
+37852,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:36Z,Open,FALSE,hashicorp/terraform,9cbb5c77fdfc884ea1f2cdf6a56067c3a2b16978,,0.00
+37851,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:36Z,Open,FALSE,hashicorp/terraform,00c53073a64534cd630f42296ab8d7a29ae5f057,,0.00
+37349,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:36Z,Open,FALSE,hashicorp/terraform,6534c5d7b476f5bfeb268ef07a7b4c7d2434a6ea,,0.00
+37347,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:36Z,Open,FALSE,hashicorp/terraform,fa1734b9a3b4621bfc3c1e7c62424b9ea0e1b336,,0.00
+38202,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:36Z,Open,FALSE,hashicorp/terraform,28dff0fcd54afa24912364c243e10e407368ab72,,0.00
+37346,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:36Z,Open,FALSE,hashicorp/terraform,330a3721b15f1e47feb196d9ba7bcb329474a9ae,,0.00
+38201,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:36Z,Open,FALSE,hashicorp/terraform,a39e3bce321813e852c783bdc3ead5e0ee6c578a,,0.00
+37113,Adam J Bravo,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:21:36Z,Open,FALSE,hashicorp/terraform,4658b2be9f898d6c5daf61c66fdba80525aaf870,,0.00
+37345,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:37Z,Open,FALSE,hashicorp/terraform,2300abbcc2b6c7c86b2d5aa71b43508ed3ea2998,,0.00
+37850,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:37Z,Open,FALSE,hashicorp/terraform,5933f65982cc14fc1f1daf7bdd8712f96bf6074f,,0.00
+38200,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:37Z,Open,FALSE,hashicorp/terraform,2d5f51edd48cf620c39420927e643e253ec01cd1,,0.00
+37344,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:37Z,Open,FALSE,hashicorp/terraform,cee6bf8fc0b48a5db38f98456d00f21e16b8279b,,0.00
+37343,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:37Z,Open,FALSE,hashicorp/terraform,e835242ca262e98c08af5448358524f2e95ed940,,0.00
+37340,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:37Z,Open,FALSE,hashicorp/terraform,e6a110ea8f6e680635f08aacc7b393287584cd30,,0.00
+37339,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:37Z,Open,FALSE,hashicorp/terraform,8901b1c5cf920c38ab0d4112aefab2a283beeb19,,0.00
+38198,Daniel Schmidt,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:37Z,Open,FALSE,hashicorp/terraform,3568695e772023401a1b05e2fa77d5a4a47d2ed5,,0.00
+37112,Adam J Bravo,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:21:37Z,Open,FALSE,hashicorp/terraform,5aa5ed41b0bc32c40638b879dea48446b7649b9c,,0.00
+37338,Ravi Prakash Bharti,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:37Z,Open,FALSE,hashicorp/terraform,cef4d4f1ccf42a7608bd90fe773a8796d18b1291,,0.00
+38197,Sebastian Rivera,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:37Z,Open,FALSE,hashicorp/terraform,50bf151dbf0566860a09caa07269a0a2296753b2,,0.00
+37336,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:37Z,Open,FALSE,hashicorp/terraform,bd3b9efb4a49abc06a7816f7afe1637d8081a757,,0.00
+37849,temp,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:37Z,Open,FALSE,hashicorp/terraform,98d16f7eb1df65afc20b6cb32c2941ada82d6f7f,,0.00
+37335,Sarah French,50,StructuralSlop,FALSE,0,"architecture:logic_erasure — conditional branch count reduced by 100% (base: 3 → head: 0) while code volume remained similar (base: 23 lines, head: 24 lines); probable AI erasure of edge-case safety checks. Risk: significant loss of technical signal — sparse branch coverage degrades documentation search relevance and may trigger low-quality content classifiers on public repositories.",,0.0000,20,2026-03-31T16:21:38Z,Open,FALSE,hashicorp/terraform,d05f913dad751df00cdeed18b6732bb01d7e4c9b,,0.00
+37334,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:38Z,Open,FALSE,hashicorp/terraform,3a13f4907361874a5db5c38420360fa636328ad8,,0.00
+37333,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:38Z,Open,FALSE,hashicorp/terraform,f7826462fd24a6f2a8b6486e9aedd361e2141453,,0.00
+37848,temp,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:38Z,Open,FALSE,hashicorp/terraform,6999b008710948b43ed4b5c8c56219686124b821,,0.00
+37332,Vladyslav Ponoiko,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:21:38Z,Open,FALSE,hashicorp/terraform,7f90de2146730f68fd052a0eb03c12d4f72e041c,,0.00
+37111,Adam J Bravo,30,StructuralSlop,FALSE,6,,,0.0000,20,2026-03-31T16:21:38Z,Open,FALSE,hashicorp/terraform,0c0c93669ab8ce5837754c8182a1fcb6bd49ec6d,,0.00
+37331,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:38Z,Open,FALSE,hashicorp/terraform,e3da940711c98014c7852150939b81fbbd601381,,0.00
+37328,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:38Z,Open,FALSE,hashicorp/terraform,ae97c240f64a19674536ed2e9ad83a6415179a3c,,0.00
+37327,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,e2494b506336195a04613ea2e0b9c8d02394ab2a,,0.00
+38195,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,8e428d50fb3de00886db029007cf62664bd3a6b4,,0.00
+38194,Anupama Vijay,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,51f0021e4ad87da1dc9703aa821bcc3f343ba4c0,,0.00
+37847,James Bardin,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,c28163b437bfa594824f85311ca7603a48b5e82b,,0.00
+37326,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,ae97c240f64a19674536ed2e9ad83a6415179a3c,,0.00
+38193,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,6abbd52ee12ac7d8d42116d1306eef91fb41136e,,0.00
+37844,Andrei Ilas,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,43ce52f3461f95c348bc8bf00bba0b6a83ae6cfe,,0.00
+38192,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,c069c06f6b8ff84b4d2a004c5bcd2de5747e6229,,0.00
+38191,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,6cc57b568169b1d696fdf850e0153c91ea336aea,,0.00
+37321,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,d80afe7b66ba56ba9e69c4182039080f781b6db3,,0.00
+38190,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,f1ff481a169942241477048ab15b77b56a9a418d,,0.00
+37320,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,fb0ab7a7cf8719a7960898fd86507a1311251abb,,0.00
+38188,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,7bc1326e27f70d81d51fedbe54b5a4814d245b59,,0.00
+38187,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,8f367b84d7eff93a28bd00bbb06e16a45262e681,,0.00
+37319,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,799b9e9cf52d8843c98f3537b8d3db983a8a3415,,0.00
+38186,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,6103cfe834acd18c3c018e9ae7a1df4802fedf24,,0.00
+38185,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,87f4b2a1a1e8faa9f67fcd6817fe3c227fe2059e,,0.00
+37110,Adam J Bravo,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,3a2de7ec2a42dd72ee36ed37e0d0bb4a2c13df68,,0.00
+37843,Sarah French,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:39Z,Open,FALSE,hashicorp/terraform,d7563c385bb7dd2af2a700b4a4f9027a6dff15d7,,0.00
+37318,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,cf65247bf2ea899b31411182e6bf9d64a8facd88,,0.00
+37840,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,df2626061195ba2bdf64b085471b57e31b684470,,0.00
+38184,Lorenzo Di Mattia,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,7f8a220fd828830aa53cda07877e07c0ab9cac93,,0.00
+38183,Varun Chawla,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,e95e84e128c2ed319fcac6978dce33cd5df29cf6,,0.00
+37316,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,57da145ca0652974cf78083d4da51f12036fdc37,,0.00
+37314,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,df02a581aafc55f63ddcdfef917798439db91047,,0.00
+38182,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,cc009d113157efc926747cbbff9ac2f17a5161cf,,0.00
+37313,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,8ffe6ccef75efe6cab989ea6a1a5180133d61b65,,0.00
+38181,Varun Chawla,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,ffb21c2073c9a5501e740ecc34677fd48a494396,,0.00
+37838,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,2e50d53f849abb2a211e746bc588734a1fa94102,,0.00
+37312,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,f889b8342440d420c71f28dbed7101ab6930aa89,,0.00
+38179,Brandon Croft,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,12276b836a4de948cba2464168d93cfafa5fa34d,,0.00
+37311,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,2b101c9e2a67e74ef4d2ae8ea50dcf8b3f8611b5,,0.00
+37109,trujillo-adam,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,97a77bd15fa866bf6afd7f1f62d38a5276073c8f,,0.00
+37310,Samsondeen,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,a398d77099ce665744e46391e46bd38b0e9863d8,,0.00
+37309,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,cb4d1ae0956c5abaa694c5890f7101a324620f82,,0.00
+37308,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,7c31ee361d3d0a4d5575db1e44d73ecd5133bd62,,0.00
+37307,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,c294cabe13f28a94cb82a8c63b2e30bdfdd1aecb,,0.00
+37837,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:40Z,Open,FALSE,hashicorp/terraform,aff9674127825765c5119605f9f1251b8f2dc69e,,0.00
+37306,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:41Z,Open,FALSE,hashicorp/terraform,5248ef1bd22f593d52e43245b9bc44ef34a84b13,,0.00
+37836,temp,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:41Z,Open,FALSE,hashicorp/terraform,d7029ebc42a2211d4756c30770b4d3fb13a66b6d,,0.00
+37833,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:41Z,Open,FALSE,hashicorp/terraform,cfbde8e5fa9f2557d8c47573f73f970e26571566,,0.00
+37305,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:41Z,Open,FALSE,hashicorp/terraform,82f7f6346d04fe1da96a6e87a06259c340724721,,0.00
+37832,Sergey Zagursky,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:41Z,Open,FALSE,hashicorp/terraform,d60c21726a1cd71373ff10072cafed95ecff8329,,0.00
+37108,trujillo-adam,105,StructuralSlop,FALSE,21,,,0.0000,20,2026-03-31T16:21:41Z,Open,FALSE,hashicorp/terraform,c749255336eeb7091c4dd058309ab2ef79632c06,,0.00
+37304,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:41Z,Open,FALSE,hashicorp/terraform,5723b4724c87cbc5aacdd26c0769b7d7f6506874,,0.00
+37303,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:41Z,Open,FALSE,hashicorp/terraform,2f8c792bc6c51b7a0ef1ec83126f6ddc0019d500,,0.00
+37830,Alan Chua,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:41Z,Open,FALSE,hashicorp/terraform,2477ab0aacee24b403e04d10a3db0717c007a6e7,,0.00
+37302,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:41Z,Open,FALSE,hashicorp/terraform,18ac21970f1cde83e8650c2752ed2a56f71d0b5d,,0.00
+37301,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:41Z,Open,FALSE,hashicorp/terraform,f10b575806616ecaf2256f071eea113fd2428dd8,,0.00
+37818,Steven Masley,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:42Z,Open,FALSE,hashicorp/terraform,029743f72d4eb5a14ffae80e832ad913dfa4dc6b,,0.00
+37107,Adam J Bravo,10,StructuralSlop,FALSE,2,,,0.0000,20,2026-03-31T16:21:42Z,Open,FALSE,hashicorp/terraform,13fc2473519b2a557d8caba390ded72a39a719a6,,0.00
+37817,Alan Chua,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:42Z,Open,FALSE,hashicorp/terraform,148efc20d7b02daf7d9b67806cd855a81292dc8d,,0.00
+37829,Alan Chua,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:42Z,Open,FALSE,hashicorp/terraform,35c39d19f417f4f8df417ec2c2f2a267f5a8c61f,,0.00
+37816,Kristin Laemmert,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:42Z,Open,FALSE,hashicorp/terraform,1a77653c6f3bd41f2d8beb7c3851872e8c8e929d,,0.00
+37828,Alan Chua,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:42Z,Open,FALSE,hashicorp/terraform,591c5918eab725e946259fdc66a94cb33a99b7d5,,0.00
+37106,trujillo-adam,95,StructuralSlop,FALSE,19,,,0.0000,20,2026-03-31T16:21:43Z,Open,FALSE,hashicorp/terraform,14c37f985aa44e19601093fc57404c91ede34760,,0.00
+37813,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:43Z,Open,FALSE,hashicorp/terraform,b6a64077837acc649df577c6aeb72b37b16e6afb,,0.00
+37827,Alan Chua,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:43Z,Open,FALSE,hashicorp/terraform,26ca67105f6bab063d859b2ea8eb9e819dd09396,,0.00
+37812,James Bardin,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:43Z,Open,FALSE,hashicorp/terraform,a21926cd4c45157a6002526e70f741b49fe5fc4b,,0.00
+37825,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:43Z,Open,FALSE,hashicorp/terraform,237eb72322ac678c735074ec69d309a6e01983a7,,0.00
+37824,LeoCie,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:43Z,Open,FALSE,hashicorp/terraform,421a188904f918c6ff6483372ed3805edfa26cbb,,0.00
+37811,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:44Z,Open,FALSE,hashicorp/terraform,62861c2a6c96be3c1a21ed0d751e5b26efbe46e8,,0.00
+37810,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:44Z,Open,FALSE,hashicorp/terraform,2227441f7dbcc5a849c5634e0d2f537c500c4740,,0.00
+37105,trujillo-adam,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:21:44Z,Open,FALSE,hashicorp/terraform,e140d0922d009459ebe361290f4573a7b9bfd4ee,,0.00
+37823,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:44Z,Open,FALSE,hashicorp/terraform,34ce03f30322af859e527fd324951c3ad1ddde46,,0.00
+37809,Kevin Vu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:44Z,Open,FALSE,hashicorp/terraform,871d0a2a7c6e61844ac9e8fe1f17a9155c9889f2,,0.00
+37808,Kevin Vu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:44Z,Open,FALSE,hashicorp/terraform,c298d4d5c52b19fa19e9d0381fa1a3769fa2dce4,,0.00
+37806,Kevin Vu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:44Z,Open,FALSE,hashicorp/terraform,b02e0c00f73dc4f1fe569eb63a9215eaa9a80f27,,0.00
+37821,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:44Z,Open,FALSE,hashicorp/terraform,4fe1d68dcceafe97f7bf7718af42b798e671cadc,,0.00
+37804,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:44Z,Open,FALSE,hashicorp/terraform,3e5f3a1888b9f734aa510f1c087f903437d2484d,,0.00
+37800,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:44Z,Open,FALSE,hashicorp/terraform,e2ba03ef71c79ecec8a892ee5366fde0d167783e,,0.00
+37820,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:45Z,Open,FALSE,hashicorp/terraform,e73e13d51407c41faa2b9ea01164e58a5740cd7c,,0.00
+38164,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:45Z,Open,FALSE,hashicorp/terraform,88006dccbd6c42c629f3000a7572296c88ca100c,,0.00
+37104,Adam J Bravo,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:45Z,Open,FALSE,hashicorp/terraform,1094cc3ebcfb535f35b0ca28aee6d4b942eb1370,,0.00
+38160,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:45Z,Open,FALSE,hashicorp/terraform,c507cfe455298ade40bbe3d48fb2c87cf02c7748,,0.00
+38159,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:45Z,Open,FALSE,hashicorp/terraform,5adbd3400a0cd306b81841cbab1de8b554d42bad,,0.00
+37798,hc-github-team-tf-core,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:45Z,Open,FALSE,hashicorp/terraform,d81c18260607abf481aa3cdadbba76ad9c8aac48,,0.00
+38157,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:45Z,Open,FALSE,hashicorp/terraform,b9cf8fb7627f33759f1316b55cb0b2b389ba3e63,,0.00
+38156,Daniel Schmidt,40,StructuralSlop,FALSE,8,,,0.0000,20,2026-03-31T16:21:45Z,Open,FALSE,hashicorp/terraform,075350a9d08661f2f0395749b2bc1395a84b08ac,,0.00
+38155,Daniel Schmidt,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:21:45Z,Open,FALSE,hashicorp/terraform,6245d387995bebc92acdade9b95a2397ab8904ec,,0.00
+37797,hc-github-team-tf-core,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:46Z,Open,FALSE,hashicorp/terraform,b429ff39b794ddf6c0f3d2fff754fec78a57605f,,0.00
+38153,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:46Z,Open,FALSE,hashicorp/terraform,693c88b4351e193e0cc1db2b7337a5b7912a3d2c,,0.00
+37796,Liam Cervante,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:46Z,Open,FALSE,hashicorp/terraform,f6c3be42e59585c3b2dcc9f2171d040c54859a9c,,0.00
+37103,Adam J Bravo,285,Critical,FALSE,37,security:credential_leak — RSA private key PEM header detected; never commit private keys (line=773) (x2),,0.0000,150,2026-03-31T16:21:47Z,Open,FALSE,hashicorp/terraform,53ad72538c4d3edaddae43e3fe23b8b1d522f34f,,0.00
+37795,Daniel Schmidt,65,StructuralSlop,FALSE,13,,,0.0000,20,2026-03-31T16:21:47Z,Open,FALSE,hashicorp/terraform,63bda52ec3752c82d49f2854d1796a320be4ac2c,,0.00
+38152,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:47Z,Open,FALSE,hashicorp/terraform,c9bf119f2d7f495f90f4899f4878b79e706b0268,,0.00
+37794,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:47Z,Open,FALSE,hashicorp/terraform,24987a4edbb477a32a2f56c29cfa187e1d40f718,,0.00
+38151,Daniel Banck,10,StructuralSlop,FALSE,2,,,0.0000,20,2026-03-31T16:21:48Z,Open,FALSE,hashicorp/terraform,93afcc3bae99f2f44ae05a7ad00e28a2259cdfa3,,0.00
+37793,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:48Z,Open,FALSE,hashicorp/terraform,6f6665bde8747552ccc631a870e04957ae2c7d1c,,0.00
+37790,Sarah French,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:49Z,Open,FALSE,hashicorp/terraform,247bb9681254c4c13e360c40b2a71778c18a6e34,,0.00
+37789,Sarah French,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:49Z,Open,FALSE,hashicorp/terraform,667a4d1b3e6e8cce30facf2bf089fffda22093ea,,0.00
+37788,Papa M Sanogo,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:49Z,Open,FALSE,hashicorp/terraform,8026ef08c4086772ee1467be00cfc5b99ed23420,,0.00
+37787,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:49Z,Open,FALSE,hashicorp/terraform,59712877f5ab7ed9fb41e08b68eaa99e960211ec,,0.00
+38150,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:50Z,Open,FALSE,hashicorp/terraform,7e5e12266a86d6d4cf105cf1d4608a851c93efdb,,0.00
+38149,Kristin Laemmert,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:50Z,Open,FALSE,hashicorp/terraform,4f2039012a77ce63e9e3124ab599554fa36a1689,,0.00
+37783,Daniel Schmidt,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:50Z,Open,FALSE,hashicorp/terraform,a6979dad79daed1085f4b74c70e9fc9429b06923,,0.00
+37782,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:50Z,Open,FALSE,hashicorp/terraform,a09c24e6ea29c3eaad655d62c51569bfd551413d,,0.00
+37781,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:50Z,Open,FALSE,hashicorp/terraform,6c94b67a9c3217ffa329155831ac27f7c76ecf76,,0.00
+38148,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:51Z,Open,FALSE,hashicorp/terraform,d019db2e081e8b5562580f5cd4ee197906deecdd,,0.00
+37778,hc-github-team-tf-core,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:51Z,Open,FALSE,hashicorp/terraform,a2e831123daa89454f7fbf773dc5fa445d4c4239,,0.00
+38147,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:51Z,Open,FALSE,hashicorp/terraform,f32a24875264a4c4216337195129a58b356d3c87,,0.00
+38146,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:51Z,Open,FALSE,hashicorp/terraform,4da132e639615e4c12821b6f200bfd8240bdafdb,,0.00
+38145,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:51Z,Open,FALSE,hashicorp/terraform,3dfc9d94227e0a31fee570a2f001a2d39309cf57,,0.00
+38144,Nicholas Ngai,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:51Z,Open,FALSE,hashicorp/terraform,c44725a367efb2f1a32182054a0648bdae29ffe7,,0.00
+37777,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:51Z,Open,FALSE,hashicorp/terraform,24be93c8e480d41df34860c2262c4a4214d89ec1,,0.00
+38143,Daniel Schmidt,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:21:51Z,Open,FALSE,hashicorp/terraform,6635f63581aa6139995297ecdbbf7c06b259ae20,,0.00
+38142,Daniel Schmidt,120,StructuralSlop,FALSE,24,,,0.0000,20,2026-03-31T16:21:52Z,Open,FALSE,hashicorp/terraform,c7f53388bf534b1f3f264d2908b64eaf767e30b8,,0.00
+38141,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:52Z,Open,FALSE,hashicorp/terraform,16cf2adaeec28cb4aff3fc1a57ef25c8e8c40c7c,,0.00
+37776,hc-github-team-tf-core,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:52Z,Open,FALSE,hashicorp/terraform,67ca40770b335f02218c444370121be38ba5d6b2,,0.00
+37775,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:52Z,Open,FALSE,hashicorp/terraform,9c97c313858bd62c3f9c33935c907473dbf103d3,,0.00
+37774,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:53Z,Open,FALSE,hashicorp/terraform,0b981aedb091a937413b5cc985d73d3dcb1f5818,,0.00
+37773,Sarah French,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:53Z,Open,FALSE,hashicorp/terraform,30e64cc369175ab475bc6957f1c7c7b914fd1094,,0.00
+38140,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:53Z,Open,FALSE,hashicorp/terraform,f502173a531add21b0bc3381a75f2fe13ffd4815,,0.00
+38139,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:53Z,Open,FALSE,hashicorp/terraform,51972d55b69be9ff623fbfa2622c6b049283c01c,,0.00
+38138,keitosuwahara,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:53Z,Open,FALSE,hashicorp/terraform,dec7d98b0e2b927dad9ef7744f7bb38c25c75179,,0.00
+37772,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:53Z,Open,FALSE,hashicorp/terraform,be2bddcc21d002c98bba030b75ad2cccfcb86f37,,0.00
+38135,Daniel Schmidt,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:53Z,Open,FALSE,hashicorp/terraform,f30496a247bbb175d8fd13abff01841332232c67,,0.00
+37770,Sebastien Dionne,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:53Z,Open,FALSE,hashicorp/terraform,5788f85839a17f99bf6d22ca0c372576d1159917,,0.00
+38134,thecaptain789,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:53Z,Open,FALSE,hashicorp/terraform,3127b185b5e2930d7dd81b734d304ed490ca6c8f,,0.00
+38132,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:53Z,Open,FALSE,hashicorp/terraform,e007c662ea88ef944025d95c7174adcb27a5ce3e,,0.00
+38130,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:54Z,Open,FALSE,hashicorp/terraform,ae1ad35d24eec162ed1cbbbdb96b73bf0016043c,,0.00
+38127,Austin Valle,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:54Z,Open,FALSE,hashicorp/terraform,3ebf28ac6e685e7df9b143d1cdaca03c48ddc63b,,0.00
+38125,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:54Z,Open,FALSE,hashicorp/terraform,605be724844b5209e6f33cb92b75d606b40d879c,,0.00
+37769,Daniel Schmidt,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:54Z,Open,FALSE,hashicorp/terraform,63e97439cf91e73d73272e147daa02e30700b0e2,,0.00
+37768,Daniel Banck,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:55Z,Open,FALSE,hashicorp/terraform,92e767352a1c417961ee875e6d6f32dfdd548b30,,0.00
+38124,Abdurahman Abdelgany,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:56Z,Open,FALSE,hashicorp/terraform,12717ed3de61b196ae49c0fda82cd873d0cfcce6,,0.00
+38123,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:56Z,Open,FALSE,hashicorp/terraform,94f03afddffd65b3b0aec90cc0bd3b1a39ba9345,,0.00
+37767,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:56Z,Open,FALSE,hashicorp/terraform,a10269debefdb74a494b33021df3279fe8329ed1,,0.00
+38122,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:56Z,Open,FALSE,hashicorp/terraform,67ad5650a54976251d6236e3957497590c437323,,0.00
+38121,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:56Z,Open,FALSE,hashicorp/terraform,69cff4e6ad4e03ec1d073379d5e46e07886dcc9a,,0.00
+38120,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:57Z,Open,FALSE,hashicorp/terraform,80f13be3be889a4f67cc707d0257269dac3eaa97,,0.00
+38119,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:57Z,Open,FALSE,hashicorp/terraform,ce10d7df4188678ff67f626f4d2c2c53fc92dfd0,,0.00
+37766,Kristin Laemmert,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:57Z,Open,FALSE,hashicorp/terraform,1697a4de0020163a8f073d3b80e988361d659c79,,0.00
+38118,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:57Z,Open,FALSE,hashicorp/terraform,6296aefc126b7de101f244313ab607e73be292aa,,0.00
+37765,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:58Z,Open,FALSE,hashicorp/terraform,fb29f11c67c043dfd34b66d5c7027bf0710930ca,,0.00
+38117,Kristin Laemmert,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:21:58Z,Open,FALSE,hashicorp/terraform,2af61747d99dd70c5e3657fd5b195df173b505fe,,0.00
+38116,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:58Z,Open,FALSE,hashicorp/terraform,e7c3d12d21c642ec2db3ad8789dcc8621db82bda,,0.00
+37763,Sebastien Dionne,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:21:58Z,Open,FALSE,hashicorp/terraform,ff4d8abad75ad1890eb9cf12211e4b1fcd56f65c,,0.00
+38115,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:58Z,Open,FALSE,hashicorp/terraform,feff2d8df325240adc3957a04b542f391799c8fa,,0.00
+38113,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:58Z,Open,FALSE,hashicorp/terraform,8d9766a1f3635e4a444a81813c527098c7693970,,0.00
+37762,Sarah French,10,StructuralSlop,FALSE,2,,,0.0000,20,2026-03-31T16:21:58Z,Open,FALSE,hashicorp/terraform,ee5540913e91c52642fc4342513f7e7dc8e5f645,,0.00
+37760,Mutahhir Hayat,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:59Z,Open,FALSE,hashicorp/terraform,a3d693e762683d0089324b1f23b6ab30f9173160,,0.00
+38112,Roniece Ricardo,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:59Z,Open,FALSE,hashicorp/terraform,4ad5f0edb0e9d58f08a4f343b94d3405b0af0bb1,,0.00
+37759,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:21:59Z,Open,FALSE,hashicorp/terraform,fd2830d4a00e0c81f3f6d3026a326ab8c74befe6,,0.00
+37758,Dirk Avery,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:00Z,Open,FALSE,hashicorp/terraform,4298d7f6cc715307b3015cbcc43b52afae589900,,0.00
+38107,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:00Z,Open,FALSE,hashicorp/terraform,8dc2b27dd5f75a7d9dce4a57b2f07db6415acff1,,0.00
+37757,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:00Z,Open,FALSE,hashicorp/terraform,c7c866a5cf344e61a31f570b0742f37fb0efeef1,,0.00
+37756,Daniel Banck,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:02Z,Open,FALSE,hashicorp/terraform,12ad79fca6cdd94351c19509e1f6ccb9c3c76075,,0.00
+38106,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:02Z,Open,FALSE,hashicorp/terraform,c542239268282242088d791e0c23bd7be8fd8625,,0.00
+38102,Tx Mat,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:02Z,Open,FALSE,hashicorp/terraform,396d860cbda7e02c0dcd88f5a2a0a51178355f04,,0.00
+37755,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:02Z,Open,FALSE,hashicorp/terraform,7f8cf0e10490a70a19561f6d7ac5566198b14c07,,0.00
+37752,Dirk Avery,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:03Z,Open,FALSE,hashicorp/terraform,edb3f6487da0a0530ffd18de82c3d8fa6ffcc6ef,,0.00
+37751,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:03Z,Open,FALSE,hashicorp/terraform,f86e0c025562351c07963e002410516b81a09dff,,0.00
+37750,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:04Z,Open,FALSE,hashicorp/terraform,1444c3837b77c7a008d7021c2c4574eaf3839415,,0.00
+38101,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:04Z,Open,FALSE,hashicorp/terraform,fa2ac9c249ba515993fee4581382447b2ce5750b,,0.00
+37747,Liam Cervante,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:05Z,Open,FALSE,hashicorp/terraform,37d1bde11c76fa730aaeb9bb9b3918506d7519ca,,0.00
+38100,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:05Z,Open,FALSE,hashicorp/terraform,116def7c74c7c3e355cc2201e7bbbf9d58ae09e2,,0.00
+37746,Liam Cervante,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:06Z,Open,FALSE,hashicorp/terraform,47dd1de0c0352b728f9384eb4dc76e3094bbe045,,0.00
+38099,Radek Simko,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:22:07Z,Open,FALSE,hashicorp/terraform,c83cbf36a00eead6b8ecf6adfda8eea90da2a963,,0.00
+37744,Liam Cervante,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:07Z,Open,FALSE,hashicorp/terraform,84e6d31a24434e8295cacaee0e6e39a255b8b910,,0.00
+37743,Dirk Avery,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:08Z,Open,FALSE,hashicorp/terraform,9bb7bffb297a89a16d70f712ead5e5a2a41bbe74,,0.00
+38098,Radek Simko,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:09Z,Open,FALSE,hashicorp/terraform,e5db364d4874756a5f530c63378a4d18468d389e,,0.00
+38096,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:09Z,Open,FALSE,hashicorp/terraform,77b0bb584be3d6853e4c2d7673a050a6acb89f8b,,0.00
+38094,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:09Z,Open,FALSE,hashicorp/terraform,ef360f4b283686316f402eb6ed9ce095f688c2b8,,0.00
+38091,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:09Z,Open,FALSE,hashicorp/terraform,11fa8b05fc15890ae1256df9519ef24e0ce604c8,,0.00
+37742,Liam Cervante,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:09Z,Open,FALSE,hashicorp/terraform,2843e605ffc30bafc2d9e42d2e197e3d0f1e1387,,0.00
+37741,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:10Z,Open,FALSE,hashicorp/terraform,df34e9a5f6546ca9d6bb91e05f07b0b48ddeac2c,,0.00
+38165,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:10Z,Open,FALSE,hashicorp/terraform,51b2cb190d569ed140b89ec59ef27422cb85af90,,0.00
+37740,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:10Z,Open,FALSE,hashicorp/terraform,8b2896bd71e83feedb4d0fe98dad9e65046cfd1d,,0.00
+37736,Daniel Schmidt,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:11Z,Open,FALSE,hashicorp/terraform,6a7139755286cd1892b915af76b97797d0938827,,0.00
+38090,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:11Z,Open,FALSE,hashicorp/terraform,3553e1c22db4a35ae883ccb3ce9ae0660c4542e1,,0.00
+37734,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:11Z,Open,FALSE,hashicorp/terraform,154300c71c28a79a6c00ee0cbe712a9bf3d1c3b1,,0.00
+37733,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:11Z,Open,FALSE,hashicorp/terraform,7880aa6353fdf2f901f6ee05f653032e20bc4b3a,,0.00
+38089,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:11Z,Open,FALSE,hashicorp/terraform,500a822d14a206bb815acc1059ed96f7e312bbd0,,0.00
+37739,Daniel Schmidt,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:11Z,Open,FALSE,hashicorp/terraform,bbb2914b8c4a969486425dfeb99e653ee10c5a83,,0.00
+38087,jeevaratnamputla,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:11Z,Open,FALSE,hashicorp/terraform,bcdbdd671ee9a27ae186d403147eacc297ceeaed,,0.00
+38086,jeevaratnamputla,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:11Z,Open,FALSE,hashicorp/terraform,d2da1785674dbf9676911bdb6df5db0c249dd4af,,0.00
+37732,Sarah French,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:11Z,Open,FALSE,hashicorp/terraform,9c7012b11639d2d967d36f9fc994cbc7b21ad570,,0.00
+38085,Prabesh,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:11Z,Open,FALSE,hashicorp/terraform,64d415bcc53a236fbe19b15da628d54d8db15166,,0.00
+37731,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:11Z,Open,FALSE,hashicorp/terraform,c5e8f0d12d97eb74388e37d2413a87efadecb6e3,,0.00
+37738,Daniel Schmidt,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:12Z,Open,FALSE,hashicorp/terraform,615ce1648f0988a5287a1942085f499105f36a20,,0.00
+37737,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:12Z,Open,FALSE,hashicorp/terraform,44d76a412a880d571e1e5fc41586dc7e903903bc,,0.00
+37728,Daniel Banck,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:12Z,Open,FALSE,hashicorp/terraform,eb207bece5107efb4a35cd8fc28498f1f0bb706b,,0.00
+38083,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:12Z,Open,FALSE,hashicorp/terraform,3ef0e32b6c017ccbb5a1e94562514af32b3e4da3,,0.00
+37727,Daniel Banck,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:13Z,Open,FALSE,hashicorp/terraform,02c1fb8b8334612d8e363112900ed650a88f094e,,0.00
+38082,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:13Z,Open,FALSE,hashicorp/terraform,0100adb2d04d1ceac5635b64338337790d1d2615,,0.00
+37726,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:13Z,Open,FALSE,hashicorp/terraform,863d37c5306fd1067679f1654e077056ea077df9,,0.00
+37039,Radek Simko,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:13Z,Open,FALSE,hashicorp/terraform,a736984b182492838dc67c547540e1129d9dcf66,,0.00
+37725,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:14Z,Open,FALSE,hashicorp/terraform,b2b8f62c1805ffde1b0716aca64c91bb1f99410e,,0.00
+37724,Nasser,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:14Z,Open,FALSE,hashicorp/terraform,18ad50faf79e45c4e9920533a0c253131239bb4a,,0.00
+37723,Sarah French,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:14Z,Open,FALSE,hashicorp/terraform,e3df1e2ab9fd52add2ffc213e45c3bc0b137902a,,0.00
+37721,Dirk Avery,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:14Z,Open,FALSE,hashicorp/terraform,37c2fd1c2e5d078b9e4d168de0aff808fe79a3a8,,0.00
+38081,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:15Z,Open,FALSE,hashicorp/terraform,e49721316a8575ffcb4abdd6bc64cec11e9a29ea,,0.00
+37038,Radek Simko,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:15Z,Open,FALSE,hashicorp/terraform,92c775237c3021508423e19a918e0214102dc9a2,,0.00
+38077,Daniel Schmidt,65,StructuralSlop,FALSE,13,,,0.0000,20,2026-03-31T16:22:15Z,Open,FALSE,hashicorp/terraform,dec3b8ee0560cbc78d77d6522869f17431987cf5,,0.00
+37718,Kristin Laemmert,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:15Z,Open,FALSE,hashicorp/terraform,06e97632e3eb59add243a2ad2a6965bcecbc3737,,0.00
+38075,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:15Z,Open,FALSE,hashicorp/terraform,b9c0f28c109b973ced6ab54b7e6f39827cb483ac,,0.00
+37717,Sarah French,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:15Z,Open,FALSE,hashicorp/terraform,a12db376b9bb8fb38a99c9962d3e503a13a5c076,,0.00
+37716,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:15Z,Open,FALSE,hashicorp/terraform,108d454abd31254eebf41b6894d51aa82c37adb5,,0.00
+38073,Yohei Yamamoto,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:22:15Z,Open,FALSE,hashicorp/terraform,e6612d297f481889cb2f677f01173930f6b2b94c,,0.00
+38072,Shweta,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:15Z,Open,FALSE,hashicorp/terraform,50ed597d8c5107c492ae96b44afdbdc50551568f,,0.00
+38071,Abdurahman Abdelgany,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:15Z,Open,FALSE,hashicorp/terraform,587fc8e66b431a9b69a57a6500b1ea1dbb83dcaf,,0.00
+37037,Radek Simko,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:22:15Z,Open,FALSE,hashicorp/terraform,d5bb01e93c9c9efa0c5aea90b0df48f3ae33eb3c,,0.00
+37715,James Bardin,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:16Z,Open,FALSE,hashicorp/terraform,082a3810fc825196762586317948a0632e27205b,,0.00
+37102,trujillo-adam,620,Critical,FALSE,50,"security:tls_verification_bypass — `InsecureSkipVerify: true` disables TLS certificate verification entirely, enabling MitM attacks; see CVE-2022-27664, CVE-2023-29409; remove this field or set it to `false` (line=157)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=28) (x2)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=459) (x2)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=488) (x2)|antipattern:ncd_anomaly (x2)",,0.0000,150,2026-03-31T16:22:16Z,Open,FALSE,hashicorp/terraform,da25e7dbfcb2d379f9b10b5dc2251541508ab718,,0.00
+37713,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:16Z,Open,FALSE,hashicorp/terraform,9c2b2c579a972b9e4b3d80a0a285bfd1d7a3b06b,,0.00
+38066,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:16Z,Open,FALSE,hashicorp/terraform,f8bcbb64672d3285c170d9a887c87a985c25f857,,0.00
+38065,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:16Z,Open,FALSE,hashicorp/terraform,6242bb9b224b186cd35893bfaab11d85307084f8,,0.00
+37711,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:16Z,Open,FALSE,hashicorp/terraform,a8d3b45a8ce6d69a91ba01ff762edfe52fae6530,,0.00
+38064,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:16Z,Open,FALSE,hashicorp/terraform,abfb4b191d3a39f45d20a1deba86429f3cf1df03,,0.00
+37709,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:16Z,Open,FALSE,hashicorp/terraform,a175b1750b3c3118721c4f2ad11f87c3723c3f08,,0.00
+38063,ibm-mend-app[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:16Z,Open,FALSE,hashicorp/terraform,9bf97df8d78e4e8f02c767d650132c1384210e7d,,0.00
+37708,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:16Z,Open,FALSE,hashicorp/terraform,b94229250a5a296dd211faea9b1bd508ea1debf7,,0.00
+37707,Samsondeen,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:16Z,Open,FALSE,hashicorp/terraform,2ab9617645b2afe11639dea35c59419556d7dc64,,0.00
+37036,Radek Simko,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:16Z,Open,FALSE,hashicorp/terraform,29c887e9214e6bfb3830bab92d4359207f47305f,,0.00
+37706,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:16Z,Open,FALSE,hashicorp/terraform,e5255951a450f5832c6dd3a7e2c3815db5c74a1c,,0.00
+37705,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:17Z,Open,FALSE,hashicorp/terraform,3fc6502c0c6dbc8c6809ef2150732ffd889298bd,,0.00
+38061,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:17Z,Open,FALSE,hashicorp/terraform,5ddb0768a70cc7396a1b7cb23a763ebe1819b71d,,0.00
+37704,Liam Cervante,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:17Z,Open,FALSE,hashicorp/terraform,c1b89ba45e8cfbd686dbfc736e457dd44f852106,,0.00
+37701,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:17Z,Open,FALSE,hashicorp/terraform,7d3d5352a37fb7a26641482c0d5abe1036b92489,,0.00
+37700,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:17Z,Open,FALSE,hashicorp/terraform,3fb45f53f2d3e397f1c90a3b92c1d27ca9d33745,,0.00
+37035,Radek Simko,30,StructuralSlop,FALSE,6,,,0.0000,20,2026-03-31T16:22:17Z,Open,FALSE,hashicorp/terraform,a75fb17ead3d12c17a088b2d041182bbf0e1d356,,0.00
+37696,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:17Z,Open,FALSE,hashicorp/terraform,ee069e8fac4e62153c8ae9b6f1f05fb825568316,,0.00
+38060,temp,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:18Z,Open,FALSE,hashicorp/terraform,b5abbf0b6974f30ee4faebecd721d2002b1d2179,,0.00
+37695,Samsondeen,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:18Z,Open,FALSE,hashicorp/terraform,a15670c15ee1d7f1a1c568ae6989d5b46374c85c,,0.00
+37694,Samsondeen,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:18Z,Open,FALSE,hashicorp/terraform,02a9c9e46fb0fa42820dc16ce02acbc5a507d9da,,0.00
+37034,Radek Simko,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:22:18Z,Open,FALSE,hashicorp/terraform,de89633cdc26817c133716282d4c5bf7a0d6fbca,,0.00
+37693,wiryenkfea eric,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:18Z,Open,FALSE,hashicorp/terraform,a37238d2817d2af1b988d6b21a8b0bf0890d27d4,,0.00
+38059,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:18Z,Open,FALSE,hashicorp/terraform,090c347973a795d10036d739656fcc153cfdc0b4,,0.00
+37692,Akella Umesh,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:18Z,Open,FALSE,hashicorp/terraform,cc4bdf693196a703479a763a0fa07d976be16f10,,0.00
+37690,Kristin Laemmert,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:19Z,Open,FALSE,hashicorp/terraform,ab8f1845932f1f7224c2f870337a601ea5baa290,,0.00
+38058,Mark Hall,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:19Z,Open,FALSE,hashicorp/terraform,89ad17b9dc0950daf04aaecd38e47236141fa141,,0.00
+38057,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:19Z,Open,FALSE,hashicorp/terraform,86d8924b37253bcd5bc91bd2f491a6e24652dbe0,,0.00
+37033,Radek Simko,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:19Z,Open,FALSE,hashicorp/terraform,3d034fce51c887d593dbe14d8543a8e436786de5,,0.00
+38056,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:19Z,Open,FALSE,hashicorp/terraform,e561ead8c059baba168a4d395e7c1d977cf7d160,,0.00
+37688,temp,95,StructuralSlop,FALSE,19,,,0.0000,20,2026-03-31T16:22:19Z,Open,FALSE,hashicorp/terraform,59292e2540283033aea58537c54efbfc5d338f84,,0.00
+37687,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:20Z,Open,FALSE,hashicorp/terraform,24b5e7be7a97375bd727a6a7e552dbbedad99261,,0.00
+37685,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:20Z,Open,FALSE,hashicorp/terraform,7cadb285aab110771c28f541f85cffc79d1c2187,,0.00
+37683,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:20Z,Open,FALSE,hashicorp/terraform,a81e3ec2fa2b9f56012d5b2001e268a57b250257,,0.00
+37032,Radek Simko,30,StructuralSlop,FALSE,6,,,0.0000,20,2026-03-31T16:22:20Z,Open,FALSE,hashicorp/terraform,60898aa838f7da0d64a178505b76541262e4d360,,0.00
+37677,hc-github-team-tf-core,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:20Z,Open,FALSE,hashicorp/terraform,223da49c8e559943f33af937e0cded6a1e4f2d1d,,0.00
+38055,Michael Yocca,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:20Z,Open,FALSE,hashicorp/terraform,0b6c105bbf52e9193f86ae41d03d412f48840dcf,,0.00
+37676,nadavze-orca,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:20Z,Open,FALSE,hashicorp/terraform,e4c791e278263ca9cfd0c68d3e9d543a247518b2,,0.00
+38052,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:21Z,Open,FALSE,hashicorp/terraform,b77a4756b9c9331d4d5a4f7447ae7efc2cd2d6b9,,0.00
+37675,temp,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:21Z,Open,FALSE,hashicorp/terraform,1ea35f2e6819a0e002f79ccf96c17b71d69c275f,,0.00
+38051,Mutahhir Hayat,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:21Z,Open,FALSE,hashicorp/terraform,7ede2612495b86fec32a348a8be37c0ea045895f,,0.00
+38049,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:21Z,Open,FALSE,hashicorp/terraform,e6f52178fbc778d7902b362c2cf69432f7c63c18,,0.00
+38048,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:21Z,Open,FALSE,hashicorp/terraform,c47380c32a411038fbf00eaa8dde7ae8be6fc2c2,,0.00
+37674,hc-github-team-tf-core,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:21Z,Open,FALSE,hashicorp/terraform,e0d9ea435429dfb5778d7e8206121ef8ab3b7f09,,0.00
+38047,Jared Baker,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:21Z,Open,FALSE,hashicorp/terraform,64754233259ce32869a2855975debddbbd1eabcb,,0.00
+37031,Radek Simko,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:21Z,Open,FALSE,hashicorp/terraform,b2aa8548ae6000d886579603fc67124bf5bc2722,,0.00
+38046,Alexander Bruyako,10,StructuralSlop,FALSE,2,,,0.0000,20,2026-03-31T16:22:21Z,Open,FALSE,hashicorp/terraform,62f6aaa9c6a9a954ad6b1d65703aeb186ba817c1,,0.00
+38042,gautamrajur,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:21Z,Open,FALSE,hashicorp/terraform,3f3b767712c37e61e613d6279fedcb9979df48a5,,0.00
+38040,Michael Yocca,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:22Z,Open,FALSE,hashicorp/terraform,14290c3687238c7c79137ad5101e8bd295b696d8,,0.00
+37030,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:22Z,Open,FALSE,hashicorp/terraform,839a86159ac7e36089fffe06d159c7c7b0857ae9,,0.00
+37673,Samsondeen,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:22Z,Open,FALSE,hashicorp/terraform,432feb373d4db2d4a0906e734a55236ddccc8b37,,0.00
+37672,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:22Z,Open,FALSE,hashicorp/terraform,b50d20680c44fa08f076050e3ecfa7be97dc7a58,,0.00
+38039,Daniel Schmidt,10,StructuralSlop,FALSE,0,antipattern:ncd_anomaly,,0.0000,20,2026-03-31T16:22:22Z,Open,FALSE,hashicorp/terraform,501cc524574929db34f6cec4714bd4e87da03ab8,,0.00
+37029,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:22Z,Open,FALSE,hashicorp/terraform,69a021c1b236d930df5fd99107f160b0c439b02a,,0.00
+37671,Samsondeen,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:22Z,Open,FALSE,hashicorp/terraform,c133049ca32eba8827a69dcd94d692fea3ba95b0,,0.00
+38038,KyungHwanKim-devs,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:22Z,Open,FALSE,hashicorp/terraform,d37a30e93ccfb994f0922a3dd458b1fc26d3b28b,,0.00
+37028,Radek Simko,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:22:22Z,Open,FALSE,hashicorp/terraform,170a958d9c5894da1b45671ea167e3681108c377,,0.00
+37669,hc-github-team-tf-core,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:22Z,Open,FALSE,hashicorp/terraform,d1131d2920d539e74d7915e0eccd99bc7b5ef51f,,0.00
+38037,shinsj4653,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:22Z,Open,FALSE,hashicorp/terraform,0bafdff9a71e27082654d9a3776b2322c3615fd5,,0.00
+38036,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:22Z,Open,FALSE,hashicorp/terraform,d83c2355a040455aafc18ebc7ea28947c5a5afab,,0.00
+38035,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:22Z,Open,FALSE,hashicorp/terraform,ba5e3da9010104355a09952877ad387113fcae2b,,0.00
+38033,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:22Z,Open,FALSE,hashicorp/terraform,0d0cfb5c970cca7bc18d68943c9c85090d58194b,,0.00
+38031,Andrew Hay,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:22:23Z,Open,FALSE,hashicorp/terraform,8f67dc797f56bf189727c5e152420f3163ad41fd,,0.00
+37668,hc-github-team-tf-core,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:23Z,Open,FALSE,hashicorp/terraform,b98dd0e5574ea90ccbad43c52b1daa9c1b6d930b,,0.00
+38030,Richard Hillmann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:23Z,Open,FALSE,hashicorp/terraform,3147ae46d289ea7eed0c2047b8b6de38b194c074,,0.00
+37027,Robert de Bock,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:23Z,Open,FALSE,hashicorp/terraform,4be7832d137bdd662126d8b9b261575f79003219,,0.00
+37667,Liam Cervante,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:23Z,Open,FALSE,hashicorp/terraform,60f3e86bac82325a2b39ca86e1e0e6b1968be717,,0.00
+38029,github-actions[bot],120,StructuralSlop,FALSE,24,,,0.0000,20,2026-03-31T16:22:23Z,Open,FALSE,hashicorp/terraform,16b16ea73c10af50f80966978514880179bd906e,,0.00
+38028,Mark Hall,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:23Z,Open,FALSE,hashicorp/terraform,288351a92e7b1aeebd1e71dd65ee5e43bafce27e,,0.00
+37665,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:23Z,Open,FALSE,hashicorp/terraform,37ea0ea68a0ea0cb4fedefb02ebe9b4298ddead1,,0.00
+38024,Vincent Turato,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:23Z,Open,FALSE,hashicorp/terraform,dc1db5671fc8999f17005a09dcbfcc3451de4ec6,,0.00
+38021,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:23Z,Open,FALSE,hashicorp/terraform,a4b803da453e238c450f0af6012efe62e4865af1,,0.00
+37664,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:23Z,Open,FALSE,hashicorp/terraform,d1e0ee180e70c660ad0503f314ae38f9190cb911,,0.00
+38020,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:23Z,Open,FALSE,hashicorp/terraform,c996de91cd10264c357a227f30593b368e88bd7b,,0.00
+38019,tommyokeefe,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:23Z,Open,FALSE,hashicorp/terraform,14181ad0c6755b228c3ab0cf6f738073e2817cb4,,0.00
+38018,tommyokeefe,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:24Z,Open,FALSE,hashicorp/terraform,ee446e8920381fa1bafc002808c6e2e292e69070,,0.00
+37663,Liam Cervante,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:24Z,Open,FALSE,hashicorp/terraform,ec6bf50b61469383e4bfc65ae4e9fffa7e23b106,,0.00
+37026,Robert de Bock,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:24Z,Open,FALSE,hashicorp/terraform,f7aeab0d1c4b447ea8cb11632f9effae545cbc16,,0.00
+37662,Samsondeen,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:24Z,Open,FALSE,hashicorp/terraform,21cca5ef122d6d797988df3ab90545cc13b93c73,,0.00
+37661,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:25Z,Open,FALSE,hashicorp/terraform,037c8dc64c7d4df882134a7618242b59e69d7226,,0.00
+38016,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:25Z,Open,FALSE,hashicorp/terraform,de48ccfe6140428f925fb05285a91878008b6fdc,,0.00
+38015,Sarah French,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:22:25Z,Open,FALSE,hashicorp/terraform,c0b1034bde8b1647665782d116160c289d1534ac,,0.00
+37025,Robert de Bock,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:22:25Z,Open,FALSE,hashicorp/terraform,f1269e81f258f4638f5e640fe774eef47cf29977,,0.00
+37658,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:25Z,Open,FALSE,hashicorp/terraform,9ee9e027a20ddd539aab381f354d1f5e3db70f10,,0.00
+37655,Mark DeCrane,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:26Z,Open,FALSE,hashicorp/terraform,e8b1b3a03ec977e83bb7ed5782150ae7a78a764b,,0.00
+37654,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:26Z,Open,FALSE,hashicorp/terraform,fec3c68829a160267c3751286470ad873c863b3f,,0.00
+37653,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:26Z,Open,FALSE,hashicorp/terraform,941d46f33416fe9483b954fdf52d443caf1c323b,,0.00
+37650,David Spielmann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:26Z,Open,FALSE,hashicorp/terraform,5ca4a433956f52be6f64eacdab15e9ca648d4afb,,0.00
+38014,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:26Z,Open,FALSE,hashicorp/terraform,35100941bc5564a3b5bd60cf8cdf5657b2d4a35e,,0.00
+37024,Robert de Bock,30,StructuralSlop,FALSE,6,,,0.0000,20,2026-03-31T16:22:26Z,Open,FALSE,hashicorp/terraform,8e8ff10650837fb4f23257ede51df5718f3c624c,,0.00
+37647,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:26Z,Open,FALSE,hashicorp/terraform,062ceb3065efc51a1c63dd86e3a48800d6205e87,,0.00
+37645,Mark DeCrane,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:26Z,Open,FALSE,hashicorp/terraform,7f0ef4c8d0541e1374d029a98b591c93c5a013a3,,0.00
+37643,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:27Z,Open,FALSE,hashicorp/terraform,42dc428158eb9f4fc230736f340c1b52e8ea0717,,0.00
+38013,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:27Z,Open,FALSE,hashicorp/terraform,bb0d46a524a9581832ff713bf9c1fb219e805886,,0.00
+38011,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:27Z,Open,FALSE,hashicorp/terraform,01c9169c0270dfeefd5c95a26af13aa3a06bf3fa,,0.00
+37077,Daniel Banck,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:22:27Z,Open,FALSE,hashicorp/terraform,0ef0e67132aaa7dd494549165c207927269ea5ef,,0.00
+37023,Robert de Bock,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:28Z,Open,FALSE,hashicorp/terraform,66845a1cae54a425e3a3ac751275204833773414,,0.00
+38010,Kevin Vu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:28Z,Open,FALSE,hashicorp/terraform,f5955983e5319386c857ba23a708180327340995,,0.00
+38009,Kevin Vu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:28Z,Open,FALSE,hashicorp/terraform,d4e108864ce5b4457b2a54303f67c1c0840a7769,,0.00
+37022,Robert de Bock,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:28Z,Open,FALSE,hashicorp/terraform,9c562dc8af1e9b2bb975f304f727c58f31613d93,,0.00
+37076,Daniel Banck,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:22:28Z,Open,FALSE,hashicorp/terraform,155dda39b1e79ae0ac32b0f72734d940636fece4,,0.00
+37075,Sarah French,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:29Z,Open,FALSE,hashicorp/terraform,c81fb39f69cfee047c3d8420b466020476e6e42d,,0.00
+38008,Nick Fagerlund,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:29Z,Open,FALSE,hashicorp/terraform,2d7dfadd7ec3c95e9baf73b9f93e090973556393,,0.00
+37021,Robert de Bock,105,StructuralSlop,FALSE,21,,,0.0000,20,2026-03-31T16:22:30Z,Open,FALSE,hashicorp/terraform,e45d87b227baef7105481647190d29c69a40d6db,,0.00
+37074,Daniel Banck,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:30Z,Open,FALSE,hashicorp/terraform,2be4fbc765eb6950d36f92e85b20576099da94b7,,0.00
+38003,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:30Z,Open,FALSE,hashicorp/terraform,0993e7bc0d12bab960bee960b78b66bee51a9c89,,0.00
+38002,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:30Z,Open,FALSE,hashicorp/terraform,c3c44bcb59bbbd19836690a3d4cd316a0b01aa84,,0.00
+37020,Robert de Bock,10,StructuralSlop,FALSE,2,,,0.0000,20,2026-03-31T16:22:30Z,Open,FALSE,hashicorp/terraform,3c1d9a7cee2a9804ef1e155f9d74d15c57379d2d,,0.00
+38001,Daniel Schmidt,55,StructuralSlop,FALSE,11,,,0.0000,20,2026-03-31T16:22:31Z,Open,FALSE,hashicorp/terraform,51c8cb562f091f9d6d0c949b2762e0f6d126cf71,,0.00
+38000,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:31Z,Open,FALSE,hashicorp/terraform,d69c14dfa8cc793c57a139c53d7e5d5475e63ad0,,0.00
+37073,Liam Cervante,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:31Z,Open,FALSE,hashicorp/terraform,aed6b63a3aa2710df21dd6a38ea6c5750bf7be82,,0.00
+37999,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:31Z,Open,FALSE,hashicorp/terraform,ce10c92e0fef48c6e000266363e8174b5bc705e3,,0.00
+37019,Robert de Bock,95,StructuralSlop,FALSE,19,,,0.0000,20,2026-03-31T16:22:31Z,Open,FALSE,hashicorp/terraform,f82c7a26a69ef00126d82040ec5937b91f017008,,0.00
+37072,Radek Simko,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:32Z,Open,FALSE,hashicorp/terraform,d903efd94ccc65a82e00015e604d3e834db37a12,,0.00
+37998,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:32Z,Open,FALSE,hashicorp/terraform,0a03a767a2a103be4636389cb9b8e21012744443,,0.00
+37071,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:32Z,Open,FALSE,hashicorp/terraform,488f93f995a9600b5db8d2bf3dbb08320193d6d5,,0.00
+37068,trujillo-adam,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:32Z,Open,FALSE,hashicorp/terraform,fe37cf1a990a1fbcc30bb00edce52c78eed20b99,,0.00
+37067,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:32Z,Open,FALSE,hashicorp/terraform,a56f68b7fb56f8d934279a01bd0a442cc2a2b650,,0.00
+37018,Robert de Bock,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:22:33Z,Open,FALSE,hashicorp/terraform,8227845c1e71955c1ab23beb2201dc47013c0424,,0.00
+37997,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:33Z,Open,FALSE,hashicorp/terraform,0601d0e3d02907892bd22bd32769ed2dff3d5656,,0.00
+37065,Rock Wang,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:33Z,Open,FALSE,hashicorp/terraform,eea2ae6f147217170dc7c257d995a831456e92ea,,0.00
+37017,Robert de Bock,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:34Z,Open,FALSE,hashicorp/terraform,e4c4b57ad293071f6e3fa79b86f2009a1a24566e,,0.00
+37996,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:34Z,Open,FALSE,hashicorp/terraform,87b5772a84c4d28fcd40bead971f42e75563a088,,0.00
+37101,trujillo-adam,620,Critical,FALSE,50,"security:tls_verification_bypass — `InsecureSkipVerify: true` disables TLS certificate verification entirely, enabling MitM attacks; see CVE-2022-27664, CVE-2023-29409; remove this field or set it to `false` (line=155)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=28) (x2)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=459) (x2)|security:credential_leak — RSA private key PEM header detected; never commit private keys (line=488) (x2)|antipattern:ncd_anomaly (x2)",,0.0000,150,2026-03-31T16:22:34Z,Open,FALSE,hashicorp/terraform,b29ae057e9de002e3d5cc33e09538066a452a84f,,0.00
+37064,Rock Wang,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:35Z,Open,FALSE,hashicorp/terraform,60159a90846d544d901d846c4c70c203d35289a5,,0.00
+37995,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:35Z,Open,FALSE,hashicorp/terraform,a1b971a10431ae3f44012ce8bbe8fe82f45d7d23,,0.00
+37100,temp,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:35Z,Open,FALSE,hashicorp/terraform,fe7800dddc713e14e8a557aefbdc1c5d0c6e8438,,0.00
+37063,Rock Wang,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:22:36Z,Open,FALSE,hashicorp/terraform,2b273b3055a5cd04deef5bd6a74afb5fa7874c8a,,0.00
+37016,Robert de Bock,285,Critical,FALSE,37,security:credential_leak — RSA private key PEM header detected; never commit private keys (line=773) (x2),,0.0000,150,2026-03-31T16:22:36Z,Open,FALSE,hashicorp/terraform,36b95da4a7737d7103e967d51b02ce269b1a118e,,0.00
+37015,Mark DeCrane,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:36Z,Open,FALSE,hashicorp/terraform,96c924094572defacce2b1896d3d17e8060c38cf,,0.00
+37994,hc-github-team-tf-core,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:36Z,Open,FALSE,hashicorp/terraform,b3ced938fd0e3a03aff1c61efd09351d9123d211,,0.00
+37014,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:36Z,Open,FALSE,hashicorp/terraform,698753745201a30e02534f50ce8cd223d84c3fa7,,0.00
+37062,Rock Wang,30,StructuralSlop,FALSE,6,,,0.0000,20,2026-03-31T16:22:36Z,Open,FALSE,hashicorp/terraform,0cc2d1b77915cc2bb4d09ed4d3dcc3205f547259,,0.00
+37013,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:37Z,Open,FALSE,hashicorp/terraform,39f1f73842fcb19dfe61260b2a5be42826d9c8f4,,0.00
+37011,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:37Z,Open,FALSE,hashicorp/terraform,452fccd8a22aba0e4181f171f573181a361489fd,,0.00
+37993,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:37Z,Open,FALSE,hashicorp/terraform,938d0481a3dd907c653b5136834d6773b4887d69,,0.00
+37010,Abhishek Singh,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:37Z,Open,FALSE,hashicorp/terraform,23b1838fda3cf9dcbc1aa20dc1fbfe42a4476a05,,0.00
+37099,temp,160,Critical,FALSE,2,security:unpinned_asset — .github.io/ URL embedded in production source; GitHub Pages is not a CDN and has no integrity guarantee — use a versioned package dependency instead (line=99)|security:unpinned_asset — .github.io/ URL embedded in production source; GitHub Pages is not a CDN and has no integrity guarantee — use a versioned package dependency instead (line=24)|security:unpinned_asset — .github.io/ URL embedded in production source; GitHub Pages is not a CDN and has no integrity guarantee — use a versioned package dependency instead (line=74),,0.0000,150,2026-03-31T16:22:37Z,Open,FALSE,hashicorp/terraform,6508f910b3bddcdb16c4f2c621cc13676f1799d5,,0.00
+37007,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:37Z,Open,FALSE,hashicorp/terraform,dfbd72284202f151562b9206de2b069d1c1e0109,,0.00
+37061,Rock Wang,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:38Z,Open,FALSE,hashicorp/terraform,63a8c92cac1eb2c42f3d74a5f55b557098a9bcb3,,0.00
+37992,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:38Z,Open,FALSE,hashicorp/terraform,8f6b77197eb6ad7118f3fc165c121bbcec661e9b,,0.00
+37006,Daniel Schmidt,30,StructuralSlop,FALSE,6,,,0.0000,20,2026-03-31T16:22:38Z,Open,FALSE,hashicorp/terraform,757d45ef42b65ae3b5ea432882997ae72e91ff86,,0.00
+37060,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:38Z,Open,FALSE,hashicorp/terraform,d49fc5cbbf8ac16feb92443d682fd05b91178135,,0.00
+37005,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:38Z,Open,FALSE,hashicorp/terraform,a1c92088da9e0979d30eadb2bebd376add10c553,,0.00
+37054,Affinito Alessandro,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:22:38Z,Open,FALSE,hashicorp/terraform,62eff8d94101f51536b3e04c068e1be10b0c5bfa,,0.00
+37003,Kristin Laemmert,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:39Z,Open,FALSE,hashicorp/terraform,73c60a934933dd32860e7baed4a6b7b73712fd1a,,0.00
+37098,trujillo-adam,95,StructuralSlop,FALSE,19,,,0.0000,20,2026-03-31T16:22:39Z,Open,FALSE,hashicorp/terraform,0fadd7c55c8c121a89d376e7c366de011526e534,,0.00
+37991,Daniel Schmidt,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:39Z,Open,FALSE,hashicorp/terraform,6bc22f7f5f92bc54543d926f32667aa62956adfd,,0.00
+37001,James Bardin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:39Z,Open,FALSE,hashicorp/terraform,86d53a8f5b6291037332ea13b221a97f3d050845,,0.00
+37053,hc-github-team-tf-core,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:39Z,Open,FALSE,hashicorp/terraform,496141fca6ff488290d21c7ebbd6d6ccecf8dd19,,0.00
+36999,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:40Z,Open,FALSE,hashicorp/terraform,fbe96c0dd6e47a4fccff6c0194b4c093673e1f0e,,0.00
+36998,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:40Z,Open,FALSE,hashicorp/terraform,1c26d96d07bad9872f0f4f3c330c34b31bdd4db2,,0.00
+36984,Daniel Banck,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:40Z,Open,FALSE,hashicorp/terraform,02c8f264c135ec7b59ce7b99b75d3c12e4255ce6,,0.00
+37097,Rose M Koron,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:22:40Z,Open,FALSE,hashicorp/terraform,03aeae7a33c951d09f87df1734584aeeff535b00,,0.00
+37052,drewmullen,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:40Z,Open,FALSE,hashicorp/terraform,d882d639b91230bf0753c401308da35806d3bf0b,,0.00
+36983,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:40Z,Open,FALSE,hashicorp/terraform,cd3daf91f0f7fd53b9a94e41bd77d19e763387f1,,0.00
+37051,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:41Z,Open,FALSE,hashicorp/terraform,21a179d7488a289fc4e8a2699b3fc1dbf89946ff,,0.00
+36997,hc-github-team-tf-core,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:41Z,Open,FALSE,hashicorp/terraform,b844ccd72521b786cf8c6bf68aef1107daf93928,,0.00
+37096,rita,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:22:41Z,Open,FALSE,hashicorp/terraform,5bc907ca8ef383788d6fd05981704217879ed22c,,0.00
+36980,Brian McClain,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:41Z,Open,FALSE,hashicorp/terraform,dbb3fe7ae3aa1a634b0d1170b340af859a110f5c,,0.00
+37050,Radek Simko,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:41Z,Open,FALSE,hashicorp/terraform,5127716bb307a91a682b930edf0177331383f4fa,,0.00
+37049,Nara Kasbergen Kwon,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:42Z,Open,FALSE,hashicorp/terraform,0f87864b7f58ae1e94310ed938d5cac12847ad41,,0.00
+36995,hc-github-team-tf-core,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:42Z,Open,FALSE,hashicorp/terraform,8e188642d0e20467b293fcbf3f58b25dc2ccde37,,0.00
+36994,Rose M Koron,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:42Z,Open,FALSE,hashicorp/terraform,44ac3fc1c2759189437ca384cb5bde535197338f,,0.00
+37048,trujillo-adam,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:42Z,Open,FALSE,hashicorp/terraform,90747a62002f439cf30bb04b4b4332c5c6950761,,0.00
+37095,rita,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:22:42Z,Open,FALSE,hashicorp/terraform,aef824b5c5e02198012c77efd3f9e5c8903dd41f,,0.00
+36979,Brian McClain,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:42Z,Open,FALSE,hashicorp/terraform,d1e4ff5fd9e5779644ecce3c01e1fa33b111e19c,,0.00
+37094,Tom French,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:22:43Z,Open,FALSE,hashicorp/terraform,5843fb9578dfd831c035b2e0b5e8645a2db62720,,0.00
+36993,Daniel Banck,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:43Z,Open,FALSE,hashicorp/terraform,7006609a0197b234db3c12715cecf3e82b85555e,,0.00
+37047,hc-github-team-tf-core,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:43Z,Open,FALSE,hashicorp/terraform,ed918980bf4cbb173fbd018d901ad505449d00d2,,0.00
+36978,Brian McClain,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:22:43Z,Open,FALSE,hashicorp/terraform,f32e3e7bfc30f2671ee81722d3c58f462d0a2f10,,0.00
+37093,Baraa Basata,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:43Z,Open,FALSE,hashicorp/terraform,b2772092c64e6bf354d5347c2bff5fca6cbb36ce,,0.00
+37046,dependabot[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:43Z,Open,FALSE,hashicorp/terraform,b9a265c520f7db227fd5e044c450f6f9cc6e601e,,0.00
+37092,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:43Z,Open,FALSE,hashicorp/terraform,9d19accf2fe6f51eb400f1ea32c600ee5b67a8ff,,0.00
+37045,Nara Kasbergen Kwon,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:43Z,Open,FALSE,hashicorp/terraform,52242927c4ffe5b2d7b8765c2e72493fef61e7f9,,0.00
+37044,Daniel Banck,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:43Z,Open,FALSE,hashicorp/terraform,bbe08a196992a06cf9e0af2660044d2d7e3a3be4,,0.00
+36992,Daniel Banck,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:43Z,Open,FALSE,hashicorp/terraform,4038a5f0bdd6b6e5d6028e732651ef80c6a846d3,,0.00
+36977,Brian McClain,30,StructuralSlop,FALSE,6,,,0.0000,20,2026-03-31T16:22:44Z,Open,FALSE,hashicorp/terraform,ca2df89c7a6935740d3f52e1fa7f3f1759e73c29,,0.00
+36990,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:44Z,Open,FALSE,hashicorp/terraform,eaad183819b1d04f163029f5b3cc9d79622e4c8e,,0.00
+37043,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:44Z,Open,FALSE,hashicorp/terraform,781a06869089c55c54b5028da5166fd6015b32b8,,0.00
+37091,Radek Simko,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:22:44Z,Open,FALSE,hashicorp/terraform,8faaa3a1e5819de4d5cdc25ffbf80a214291a01b,,0.00
+36989,Daniel Banck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:44Z,Open,FALSE,hashicorp/terraform,76b4a6405d7556b83b8e8afb704bfc539558cd57,,0.00
+37042,Liam Cervante,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:44Z,Open,FALSE,hashicorp/terraform,baa3833a4fe4fadf00826aca4d4fd72e8eca6af7,,0.00
+36988,Ilgar,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:44Z,Open,FALSE,hashicorp/terraform,30c75609360c88791366fab2036063acad9572bb,,0.00
+37041,Sarah French,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:22:45Z,Open,FALSE,hashicorp/terraform,dd47518c1dc71c51a9285735b3d665a971401659,,0.00
+37090,Radek Simko,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:45Z,Open,FALSE,hashicorp/terraform,380a802f63c614b108aff3f3c9210fa92b521d25,,0.00
+36976,Brian McClain,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:45Z,Open,FALSE,hashicorp/terraform,8ba7ce6231c6e271c5b9677082b58a3c58db7902,,0.00
+36975,Brian McClain,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:45Z,Open,FALSE,hashicorp/terraform,47eee9092112ae7122ac8e939db52e48d62469ad,,0.00
+37040,Radek Simko,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:45Z,Open,FALSE,hashicorp/terraform,c47932e1dfb3fb7dea30abd99c06434019b966db,,0.00
+37089,Radek Simko,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:22:46Z,Open,FALSE,hashicorp/terraform,82adf0cdf21c4b47ff30da9b2a9d66f8a64e39c0,,0.00
+36971,hc-github-team-tf-core,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:46Z,Open,FALSE,hashicorp/terraform,d731c852b13e815396b2e008c5d1b8e79ef7feaa,,0.00
+36974,Rose M Koron,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:46Z,Open,FALSE,hashicorp/terraform,6045e87d09f1516e84dbbc250dbc36e0066720b3,,0.00
+36973,Rose M Koron,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:46Z,Open,FALSE,hashicorp/terraform,b0a77ed682db7d9f5949d4dab09b2ca965c8e9ac,,0.00
+36969,hc-github-team-tf-core,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:46Z,Open,FALSE,hashicorp/terraform,edbd2acec668e2c67e806af2a2ce8efb8372b993,,0.00
+37088,Radek Simko,30,StructuralSlop,FALSE,6,,,0.0000,20,2026-03-31T16:22:46Z,Open,FALSE,hashicorp/terraform,3c733d516fbecd08e88d49bf2b77323cd350d24d,,0.00
+36968,Daniel Banck,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:46Z,Open,FALSE,hashicorp/terraform,244f0a9fffd86199693fffe0ef39f1bfcfc203fa,,0.00
+36972,Rose M Koron,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:22:47Z,Open,FALSE,hashicorp/terraform,30dc3297d44c476a701a2d5a76edacb65b24f1e9,,0.00
+36967,Daniel Banck,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:47Z,Open,FALSE,hashicorp/terraform,1cdf61e27d3d07f82e77793efd1a07ea36c695f4,,0.00
+37087,Radek Simko,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:47Z,Open,FALSE,hashicorp/terraform,4b3ad7a1441c77f36a682d30c9a4d79efd429ef2,,0.00
+37086,Samsondeen Dare,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:47Z,Open,FALSE,hashicorp/terraform,21acf72840bbf8be1542bbe3b116385466b315d3,,0.00
+37085,Sarah French,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-31T16:22:47Z,Open,FALSE,hashicorp/terraform,28805b246a8a6c874e0ddf17271d8502b81610fc,,0.00
+37084,Radek Simko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-31T16:22:48Z,Open,FALSE,hashicorp/terraform,1134d857508ef2371a056d3846a2a5a2f069737f,,0.00
+37082,Yang Liu,25,StructuralSlop,FALSE,5,,,0.0000,20,2026-03-31T16:22:48Z,Open,FALSE,hashicorp/terraform,baf6d7a9be3952c96a5d10f488921c3e257af6b6,,0.00
+37081,Yang Liu,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-31T16:22:48Z,Open,FALSE,hashicorp/terraform,369197259cbb208c6a6bcf1698ff0a0e559333b5,,0.00
+37080,Yang Liu,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-31T16:22:49Z,Open,FALSE,hashicorp/terraform,4bd3b8e6e222df4488143dcaf004501099a0c48c,,0.00
+37079,Yang Liu,30,StructuralSlop,FALSE,6,,,0.0000,20,2026-03-31T16:22:49Z,Open,FALSE,hashicorp/terraform,0f5db94f5f5e6935600b7d02659873813ea371f3,,0.00
+37078,Yang Liu,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-31T16:22:49Z,Open,FALSE,hashicorp/terraform,a5c2326d698149d77f247b6251074b0c532d52f7,,0.00

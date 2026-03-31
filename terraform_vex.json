@@ -1,0 +1,44 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-03-31T16:22:53Z",
+    "tools": [
+      {
+        "type": "application",
+        "name": "The Janitor",
+        "version": "8.8.1",
+        "externalReferences": [
+          {
+            "type": "website",
+            "url": "https://thejanitor.app"
+          }
+        ]
+      }
+    ],
+    "component": {
+      "type": "application",
+      "bom-ref": "hashicorp/terraform@HEAD",
+      "name": "terraform",
+      "version": "HEAD"
+    }
+  },
+  "vulnerabilities": [
+    {
+      "id": "JANITOR-SECURITY-SCAN",
+      "bom-ref": "janitor-sec-audit",
+      "description": "Static structural security analysis by The Janitor v8.8.1. Threat classes scanned: C/C++ memory-unsafe functions (gets, strcpy, sprintf, scanf); Python subprocess shell injection (subprocess+shell=True); JavaScript innerHTML XSS assignment; HCL open CIDR (0.0.0.0/0) and S3 public ACL; Kubernetes wildcard host rules.",
+      "analysis": {
+        "state": "not_affected",
+        "detail": "Janitor v8.8.1 structural scan found 0 security: antipattern findings across all audited PRs. All repository components assessed as not_affected.",
+        "justification": "inline_mitigations_already_exist"
+      },
+      "affects": [
+        {
+          "ref": "hashicorp/terraform@HEAD"
+        }
+      ]
+    }
+  ]
+}
